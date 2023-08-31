@@ -5,12 +5,12 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: umbc-cmsc471-solaiman #Just the Class
+  name: umbc-cmsc478-solaiman #Just the Class
 ---
 
 <img src="assets/images/UMBC-primary-logo-RGB.png" alt="drawing" width="450"/>
 
-# CMSC 471 — Introduction to Artificial Intelligence 
+# CMSC 478 — Introduction to Machine Learning 
 # Fall 2023
 {: .no_toc }
 
@@ -29,19 +29,19 @@ seo:
 ## Logistics 
 
 - Instructor: KMA Solaiman, <mailto:ksolaima@umbc.edu>
-- Teaching assistant: Prasanna Bollineni, <mailto:lakshmb1@umbc.edu>
+- Teaching assistant: Surya Kiran Challagulla, <mailto:ru17699@umbc.edu>
 <!-- - Grader: -->
-- Lecture time: **MW 2:30-3:45pm** *(01)*, **MW 5:30-6:45pm** *(02)*
-- Location: `SONDHEIM 103` (01), `ENGG 022` (02)
+- Lecture time: **TTh 2:30-3:45pm** *(01)*, **TTh 5:30-6:45pm** *(02)*
+- Location: `SONDHEIM 203` (01), `SONDHEIM 105` (02)
 - Credit Hours: 3.00
-- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/G38B2595B/feed)
-- For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC471-concern`.
+- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/G5403DC1B/feed)
+- For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
 - Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
 - Office hours
-  - `Wed 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `MW 11:30-12:30pm, or by appointment`, ITE 334, Prasanna Bollineni
+  - `Thu 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
+  - `Thu 3-5pm, or by appointment`, TBD, Surya Kiran Challagulla
 
-> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G38B2595B/feed).
+> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G5403DC1B/feed).
 <!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
 
 ## Course Description
@@ -55,19 +55,11 @@ The goals for this course are:
 - be exposed to how these problems relate to those in computer science and subfields of computer science;
 - have experience experimenting with AI approaches;
 
-### CMI Text Book
+### Textbooks
 
-This course is part of UMBC's [Course Materials Initiative
-(CMI)](https://bookstore.umbc.edu/cmi), so an electronic copy of the
-text [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) can be downloaded to your own computer, tablet, or phone or read
-through Blackboard. 
+ Hal Daume from UMCP has written a good text for an introductory course in machine learning. You can get it here: [CIML](http://ciml.info/). Another good source is [Machine Learning by Tom Mitechell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf).
 
-The electronic copy can be read on Blackboard if you are registered for the class. In Blackboard, go to `Course Materials --> My Textbooks & Course Resources`.
-
-<!-- CMI billing is through the student account. Visit
-[bookstore.umbc.edu/cmi](http://bookstore.umbc.edu/cmi) for information
-on CMI including the full list of CMI courses and materials with
-pricing, current deadlines, how-to guides, extension forms, and FAQs. -->
+There are a few other online texts that we'll draw from or I will give you specific lecture notes. You'll find links to them below in the schedule of topics, with specific sections that you should read.
 
 ### Prerequisites
 This is an upper-level undergraduate level Computer Science course and we will assume that you will have a good grounding in algorithms, statistics, and adequate programming skills (CMSC 341). Many of the homework assignments will involve programming and you will be expected to do them in Python. Having said that, we will try our best to provide materials or backgrounds for the programming assignments.
@@ -78,58 +70,61 @@ This is an upper-level undergraduate level Computer Science course and we will a
 ## Course Schedule
 > This syllabus and schedule is preliminary and subject to change.
 > Abbreviations refer to the following:
-> - RN: Russel/Norvig
+> - CIML: Book by Hal Daume
+> - TM: Tom Mitchell
 
-| Date    | Topics  | Notes | Readings |
-| :------ | :------ | :------  | :------ |
-| **Week 1** | | | |
-| Wed <br> Aug 30 | Course Overview: Administrivia and What is AI? | |
-| **Week 2** | | | |
-| Mon <br> Sep 04 | Labor Day <br> No Classes | | |
-| Wed <br> Sep 06 | Agents, and Agent Architectures | |
-| **Week 3** | | | |
-| Mon <br> Sep 11 | Problem solving as search | |
-| Wed <br> Sep 13 | Uninformed search | |
-| **Week 4** | | | |
-| Mon <br> Sep 18 | Informed search: Heuristic Search | |
-| Wed <br> Sep 20 | Informed search: Local and Online Search | |
-| **Week 5** | Constraints | | |
-| Mon <br> Sep 25 | Constraint Satisfaction Problem | |
-| Wed <br> Sep 27 | Constraint Reasoning | |
-| **Week 6** | Adversarial Search (Games)| | |
-| Mon <br> Oct 02 |  | |
-| Wed <br> Oct 04 |  | |
-| **Week 7** | Reasoning Agents | | |
-| Mon <br> Oct 09 | Game Theory | |
-| Wed <br> Oct 11 | Knowledge Representation | |
-| **Week 8** | Reasoning Agents | | |
-| Mon <br> Oct 16 | Reasoning with Propositional Logic | |
-| Wed <br> Oct 18 | First Order Logic | |
-| **Week 9** | | | |
-| Mon <br> Oct 23 | FOL inference, Knowledge Representation | |
-| Wed <br> Oct 25 | Some AI techniques in ML | Examples of Search, Logic; Constraint Extension: ILP |
-| **Week 10** | | | |
-| Mon <br> Oct 30 | *Midterm Exam* | | |
-| Wed <br> Nov 01 | Probability & Bayesian Reasoning | |
-| **Week 11** | | | |
-| Mon <br> Nov 06 | Reasoning with BBNs | |
-| Wed <br> Nov 08 | Planning (without uncertainty)| |
-| **Week 12** | | | |
-| Mon <br> Nov 13 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space |
-| Wed <br> Nov 15 | Machine Learning: Decision Trees | |
-| **Week 13** | Machine Learning | | |
-| Mon <br> Nov 20 | Supervised Learning | |
-| Wed <br> Nov 22 | Regression | |
-| **Week 14** | Machine Learning | | |
-| Mon <br> Nov 27 | SVMs, Clustering | |
-| Wed <br> Nov 29 | Bagging | |
-| **Week 15** | Neural Networks | | |
-| Mon <br> Dec 04 | Feed Forward | |
-| Wed <br> Dec 06 | ML Tools | |
-| **Week 16** | | | |
-| Mon <br> Dec 11 | Word Embedding, Transformers | |
-| Wed <br> Dec 13 | Study Day <br> No Classes | | |
-| **Week 17** | | | |
+| Date      | Topics      | Notes | Readings |
+| :---------| :-----------| :------  | :------ |
+| **Week 1** | | | 
+| Thu <br> Aug 31 | Course Overview. Administrivia and What is ML?. | |  <!--DT from Mitchell or CIML-->
+| **Week 2** | **Supervised Learning** | | 
+| Tue <br> Sep 05 | Supervised learning setup, LMS | |  <!--Stanford if otherwise not mentioned-->
+| Thu <br> Sep 07 | Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method | | 
+| **Week 3** | | | 
+| Tue <br> Sep 12 | Exponential family. Generalized Linear Models. Multi-class classification. | |
+|            | **Probabilistic Learning / Generative Learning Models** | | 
+| Thu <br> Sep 14 | *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  | |
+| **Week 4** | | | 
+| Tue <br> Sep 19 | Naive Bayes, Laplace Smoothing. *Conditional Models.* | |
+|            |  **Kernel Methods** | | 
+| Thu <br> Sep 21 | Kernels, SVM | |
+| **Week 5** | **Neural Networks** | | 
+| Tue <br> Sep 26 | NN Architecture | |
+| Thu <br> Sep 28 | NN Backpropagation | |
+| **Week 6** | **Generalization and Regularization**| | 
+| Tue <br> Oct 03 | Bias - Variance Tradeoff. Regularization.  | |   <!--CIML Chap 5-->
+| Thu <br> Oct 05 | Feature / Model selection. Evaluation Metrics. | | <!--CIML Chap 8-->
+| **Week 7** | **Unsupervised and less-supervised learning** | | 
+| Tue <br> Oct 10 | K-Means. GMM (non EM). Expectation Maximization. | |
+| Thu <br> Oct 12 | GMM (EM) | |
+| **Week 8** | | | 
+| Tue <br> Oct 17 | **Midterm Review** | |    <!-- PAC, VC-->
+| Thu <br> Oct 19 | **Midterm Exam** | |
+| **Week 9** | | | 
+| Tue <br> Oct 24 | PCA, ICA | |        <!-- + Factor analysis-->
+| Thu <br> Oct 26 | Weak supervised / Self-supervised learning | |
+| **Week 10** | **Reinforcement Learning** | | 
+| Tue <br> Oct 31 | Basic concepts in RL, value iteration, policy iteration | | |
+| Thu <br> Nov 02 | Model-based RL, value function approximator | |
+| **Week 11** | | | 
+| Tue <br> Nov 07 | Guest Lecture on Monopoly | |   <!-- Monopoly-->
+| Thu <br> Nov 09 | Learning Theory | |
+| **Week 12** | **Ensemble Learning** | | 
+| Tue <br> Nov 14 | EL | |
+| Thu <br> Nov 16 | EL | |
+| **Week 13** | | | |
+| Tue <br> Nov 21 | Genetic / Evolutionary Learning | |         <!-- Tom Mitchell Chap 8 -->
+| Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
+| **Week 14** | | | 
+| Tue <br> Nov 28 | Applications of Evolutionary Learning | | <!-- Monir Sir Paper-->   <!-- or, Decision Trees/ Concept Learning-->
+| Thu <br> Nov 30 | Instance-based Learning, KNN | |          <!-- Tom Mitchell Chap 8 --> <!-- or, Decision Trees/ Concept Learning-->
+| **Week 15** | **Projects** | | 
+| Tue <br> Dec 05 | **Project Presentations** | |
+| Thu <br> Dec 07 | **Project Presentations** | |
+| **Week 16** | | | 
+| Tue <br> Dec 12 | **Final Exam Review** | |
+| Thu <br> Dec 14 | No Classes | | |
+| **Week 17** | | | 
 | Fri <br> Dec 15 | *Final Exam* | | |
 
 
@@ -139,26 +134,31 @@ This is an upper-level undergraduate level Computer Science course and we will a
 TBA
 
 ## Midterm and Final Exams
-The material covered by the exams will be drawn from assigned readings in the text, from lectures, from quizzes, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings.
+The material covered by the exams will be drawn from assigned readings in the text, from lectures, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings.
 
 <!-- ## Code -->
 <!-- Tim Finin -->
 <!-- We have a repository of Jupyter notebooks intended to run in Colab and python code (e.g., the AIMA code) that are examples we'll use in class and that you can use to understand concepts. You should clone this on your computer or in your account on gl.umbc.edu. The 671 resources page has some information on using git and jupyter notebooks -->
 
+## Projects
+The project is meant to give students deeper exposure to some topic in machine learning than they would get from the lectures, readings, and discussions alone. Those projects that are most successful often blend the student's own research with machine learning, e.g. by applying machine learning techniques to a problem in some other area, or by bringing an insight from some other area to a problem in machine learning. However, projects need not involve ties with ongoing research. Many good projects in the past have investigated the application of existing algorithms to a domain/dataset of interest to the student, such as Texas Hold'em, the stock market, sporting events, and so on. Students can come up with their own project ideas or they can come see me and we'll brainstorm project ideas. 
+
+Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](/projects).
+
 ## Course Evaluation
 
-Grades will be based on your performance in quizzes, five or six homework assignments, a mid-term examination and a final examination.  The overall evaluation is as follows:
+Grades will be based on your performance in homework assignments, project, a mid-term examination and a final examination. There will be 5-10 homeworks throughout the semester. The overall evaluation is as follows:
 <!-- The exact weight will be set at the end of the course, but the expected breakdown is: quizzes: 10%; homework: 45%; midterm: 20%; final: 25%.  -->
 
 |Component| %|
 | :------------------ | :---: | 
-|Quizzes |10%|
-|Assignments |45%|
-|Exams |40%|
-|Course Engagement |5%|
+|Homework/Programming Assignments |50%|
+|Exams |15% each, 30%|
+|Project |20%|
 
 “Course engagement” consists of, e.g., asking questions, participating in discussions (in class or
-online), responding to surveys or checkpointing questions, etc.). In absence of quizzes, the percentage would redirect to course engagement.
+online), responding to surveys or checkpointing questions, etc.). “Course engagement” could count in your favor in borderline cases.
+<!-- |Course Engagement |5%| -->
 
 As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F.
  <!-- We may have a few quizzes on Blackboard based on the reading. Answering the quiz questions should be easy if you have done the reading. -->
@@ -190,7 +190,7 @@ will be provided with each assigned item.
 
 ### Extensions and Late Policy
 
-Personal or one-off extensions will not be granted. Instead, everyone in this course has **ten (10) late days** to use as needed throughout the course. These are meant for personal reasons and
+Personal or one-off extensions will not be granted. Instead, everyone in this course has **ten (10) late days (3 days maximum for each assignment)** to use as needed throughout the course. These are meant for personal reasons and
 emergencies; do not use them as an excuse to procrastinate. Late days are measured in 24 hour
 blocks after a deadline. They are **not fractional**: an assignment turned in between 1 minute and
 23 hours, 59 minutes (1,439 minutes) after the deadline uses one late day, an assignment turned in
@@ -228,7 +228,7 @@ Student Handbook, the Faculty Handbook, or the UMBC Policies section of
 the UMBC Directory. -->
 
 Especially for computer science classes, there are generally questions about what is and is
-not allowed. You are encouraged to discuss the subject matter and assignments with others. The
+not alloThu. You are encouraged to discuss the subject matter and assignments with others. The
 Campuswire discussion board provides a great forum for this. However, you may not write or complete
 assignments for another student; allow another student to write or complete your assignments; pair
 program; copy someone else’s work; or allow your work to be copied. **(This list is not inclusive.)**
@@ -360,12 +360,12 @@ of [Confidential
 Resources](https://ecr.umbc.edu/policy-on-sexual-misconduct-sexual-harassment-and-gender-discrimination/#confidential-resources)
 available to support you:
 
--   Retriever Integrated Health (Main Campus): 410-455-2472; Monday --
+-   Retriever Integrated Health (Main Campus): 410-455-2472; Tueday --
     Friday 8:30 a.m. -- 5 p.m.; **For After-Hours Support, Call 988.**
 
 -   Pastoral Counseling via [The Gathering Space for Spiritual
     Well-Being](https://i3b.umbc.edu/spaces/the-gathering-space-for-spiritual-well-being/):
-    410-455-6795; <i3b@umbc.edu>; Monday -- Friday 8:00 a.m. -- 10:00
+    410-455-6795; <i3b@umbc.edu>; Tueday -- Friday 8:00 a.m. -- 10:00
     p.m.
 
 -   For after-hours emergency consultation, call the police at
@@ -374,7 +374,7 @@ available to support you:
 **Other Resources:**
 
 -   Women's Center (open to students of all genders): 410-455-2714;
-    <womenscenter@umbc.edu>; Monday -- Thursday 9:30 a.m. -- 5:00 p.m.
+    <womenscenter@umbc.edu>; Tueday -- Thursday 9:30 a.m. -- 5:00 p.m.
     and Friday 10:00 a.m. -- 4 p.m.
 
 -   [Maryland Resources](https://ecr.umbc.edu/maryland-resources/),
@@ -444,8 +444,8 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 
 ## Acknowledgements
 
-This class borrows inspirations from several incredible sources.
+This class borrows inspirations from several incredible sources. The project description is inspired by my colleague, Tim Oates. Some of the lecture slides' material will be adapted from Machine Learning course offered by Stanford.
 <!-- The final project structure and accompanying instructions are inspired and adapted from my Ph.D. advisor, Jen Rexford's COS 561 class of Fall 2020 at Princeton and Nick McKeown's CS 244 class at Stanford. -->
-The lecture slides' material is partially adapted from my colleagues, Tim Finin and Frank Ferraro's class at UMBC.
+<!-- The lecture slides' material is partially adapted from my colleagues, Tim Finin and Frank Ferraro's class at UMBC. -->
 
 <!-- Programming assignment 1 is based on a similar assignment offered at Princeton by Nick Feamster. -->
