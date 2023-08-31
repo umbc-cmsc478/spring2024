@@ -39,7 +39,7 @@ seo:
 - Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
 - Office hours
   - `Thu 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `Thu 3-5pm, or by appointment`, TBD, Surya Kiran Challagulla
+  - `Thu 3-5pm, or by appointment`, ITE 334, Surya Kiran Challagulla
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G5403DC1B/feed).
 <!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
@@ -144,7 +144,7 @@ The material covered by the exams will be drawn from assigned readings in the te
 ## Projects
 The project is meant to give students deeper exposure to some topic in machine learning than they would get from the lectures, readings, and discussions alone. Those projects that are most successful often blend the student's own research with machine learning, e.g. by applying machine learning techniques to a problem in some other area, or by bringing an insight from some other area to a problem in machine learning. However, projects need not involve ties with ongoing research. Many good projects in the past have investigated the application of existing algorithms to a domain/dataset of interest to the student, such as Texas Hold'em, the stock market, sporting events, and so on. Students can come up with their own project ideas or they can come see me and we'll brainstorm project ideas. 
 
-Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](/projects).
+Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](https://umbc-cmsc478.github.io/fall2023-public/projects/).
 
 ## Course Evaluation
 
