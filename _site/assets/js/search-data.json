@@ -1,35 +1,35 @@
 {"0": {
     "doc": "Home",
-    "title": "CMSC 471 — Introduction to Artificial Intelligence",
+    "title": "CMSC 478 — Introduction to Machine Learning",
     "content": " ",
-    "url": "/#cmsc-471--introduction-to-artificial-intelligence",
+    "url": "/#cmsc-478--introduction-to-machine-learning",
     
-    "relUrl": "/#cmsc-471--introduction-to-artificial-intelligence"
+    "relUrl": "/#cmsc-478--introduction-to-machine-learning"
   },"1": {
     "doc": "Home",
     "title": "Fall 2023",
-    "content": ". | CMSC 471 — Introduction to Artificial Intelligence . | Logistics | Course Description . | CMI Text Book | Prerequisites | . | Course Schedule | Assignments | Midterm and Final Exams | Course Evaluation | Policies . | Due Dates | Extensions and Late Policy | Academic Honesty | . | Accomodations . | Students with Accommodation Needs | Sexual Assault, Sexual Harassment, and Gender-based Violence and Discrimination | Hate, Bias, Discrimination, and Harassment | . | Acknowledgements | . | . ",
+    "content": ". | CMSC 478 — Introduction to Machine Learning . | Logistics | Course Description . | Textbooks | Prerequisites | . | Course Schedule | Assignments | Midterm and Final Exams | Projects | Course Evaluation | Policies . | Due Dates | Extensions and Late Policy | Academic Honesty | . | Accomodations . | Students with Accommodation Needs | Sexual Assault, Sexual Harassment, and Gender-based Violence and Discrimination | Hate, Bias, Discrimination, and Harassment | . | Acknowledgements | . | . ",
     "url": "/#fall-2023",
     
     "relUrl": "/#fall-2023"
   },"2": {
     "doc": "Home",
     "title": "Logistics",
-    "content": ". | Instructor: KMA Solaiman, ksolaima@umbc.edu | Teaching assistant: Prasanna Bollineni, lakshmb1@umbc.edu | Lecture time: MW 2:30-3:45pm (01), MW 5:30-6:45pm (02) | Location: SONDHEIM 103 (01), ENGG 022 (02) | Credit Hours: 3.00 | Q&amp;A, Course discussion and announcements: Campuswire | For any sensitive issue, please email me (ksolaima@umbc.edu), preferrably with a subject preceded by CMSC471-concern. | Exam and assignment submissions: Blackboard | Office hours . | Wednesday 1-2pm, or by appointment, ITE 201-C, KMA Solaiman (may add more if needed) | TBD, or by appointment, Prasanna Bollineni | . | . Note: Visit Blackboard for instructions on joining Campuswire. ",
+    "content": ". | Instructor: KMA Solaiman, ksolaima@umbc.edu | Teaching assistant: Surya Kiran Challagulla, ru17699@umbc.edu | Lecture time: TTh 2:30-3:45pm (01), TTh 5:30-6:45pm (02) | Location: SONDHEIM 203 (01), SONDHEIM 105 (02) | Credit Hours: 3.00 | Q&amp;A, Course discussion and announcements: Campuswire | For any sensitive issue, please email me (ksolaima@umbc.edu), preferrably with a subject preceded by CMSC478-concern. | Exam and assignment submissions: Blackboard | Office hours . | Thu 1-2pm, or by appointment (more if needed), ITE 201-C, KMA Solaiman | Thu 3-5pm, or by appointment, TBD, Surya Kiran Challagulla | . | . Note: Visit Blackboard for instructions on joining Campuswire. ",
     "url": "/#logistics",
     
     "relUrl": "/#logistics"
   },"3": {
     "doc": "Home",
     "title": "Course Description",
-    "content": "This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, Artificial Intelligence: A Modern Approach (4th edition) by Stuart Russell and Peter Norvig. The topics covered will include problem-solving approaches, problem spaces and search, knowledge representation and reasoning, logic and deduction, planning, expert systems, handling uncertainty, learning and natural language understanding. The goals for this course are: . | be introduced to some of the core problems and solutions of artificial intelligence (AI); | learn different ways that success and progress can be measured in AI; | be exposed to how these problems relate to those in computer science and subfields of computer science; | have experience experimenting with AI approaches; | . CMI Text Book . This course is part of UMBC’s Course Materials Initiative (CMI), so an electronic copy of the text Artificial Intelligence: A Modern Approach (4th edition) can be downloaded to your own computer, tablet, or phone or read through Blackboard. The electronic copy can be read on Blackboard if you are registered for the class. In Blackboard, go to Course Materials --&gt; My Textbooks &amp; Course Resources. Prerequisites . This is an upper-level undergraduate level Computer Science course and we will assume that you will have a good grounding in algorithms, statistics, and adequate programming skills (CMSC 341). Many of the homework assignments will involve programming and you will be expected to do them in Python. Having said that, we will try our best to provide materials or backgrounds for the programming assignments. ",
+    "content": "This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, Artificial Intelligence: A Modern Approach (4th edition) by Stuart Russell and Peter Norvig. The topics covered will include problem-solving approaches, problem spaces and search, knowledge representation and reasoning, logic and deduction, planning, expert systems, handling uncertainty, learning and natural language understanding. The goals for this course are: . | be introduced to some of the core problems and solutions of artificial intelligence (AI); | learn different ways that success and progress can be measured in AI; | be exposed to how these problems relate to those in computer science and subfields of computer science; | have experience experimenting with AI approaches; | . Textbooks . Hal Daume from UMCP has written a good text for an introductory course in machine learning. You can get it here: CIML. Another good source is Machine Learning by Tom Mitechell. There are a few other online texts that we’ll draw from or I will give you specific lecture notes. You’ll find links to them below in the schedule of topics, with specific sections that you should read. Prerequisites . This is an upper-level undergraduate level Computer Science course and we will assume that you will have a good grounding in algorithms, statistics, and adequate programming skills (CMSC 341). Many of the homework assignments will involve programming and you will be expected to do them in Python. Having said that, we will try our best to provide materials or backgrounds for the programming assignments. ",
     "url": "/#course-description",
     
     "relUrl": "/#course-description"
   },"4": {
     "doc": "Home",
     "title": "Course Schedule",
-    "content": "This syllabus and schedule is preliminary and subject to change. Abbreviations refer to the following: . | RN: Russel/Norvig | . | Date | Topics | Notes | Readings | . | Week 1 |   |   |   | . | Wed Aug 30 | Course Overview: Administrivia and What is AI? |   |   | . | Week 2 |   |   |   | . | Mon Sep 04 | Labor Day No Classes |   |   | . | Wed Sep 06 | Agents, and Agent Architectures |   |   | . | Week 3 |   |   |   | . | Mon Sep 11 | Problem solving as search |   |   | . | Wed Sep 13 | Uninformed search |   |   | . | Week 4 |   |   |   | . | Mon Sep 18 | Informed search: Heuristic Search |   |   | . | Wed Sep 20 | Informed search: Local and Online Search |   |   | . | Week 5 | Constraints |   |   | . | Mon Sep 25 | Constraint Satisfaction Problem |   |   | . | Wed Sep 27 | Constraint Reasoning |   |   | . | Week 6 | Adversarial Search (Games) |   |   | . | Mon Oct 02 |   |   |   | . | Wed Oct 04 |   |   |   | . | Week 7 | Reasoning Agents |   |   | . | Mon Oct 09 | Game Theory |   |   | . | Wed Oct 11 | Knowledge Representation |   |   | . | Week 8 | Reasoning Agents |   |   | . | Mon Oct 16 | Reasoning with Propositional Logic |   |   | . | Wed Oct 18 | First Order Logic |   |   | . | Week 9 |   |   |   | . | Mon Oct 23 | FOL inference, Knowledge Representation |   |   | . | Wed Oct 25 | Some AI techniques in ML | Examples of Search, Logic; Constraint Extension: ILP |   | . | Week 10 |   |   |   | . | Mon Oct 30 | Midterm Exam |   |   | . | Wed Nov 01 | Probability &amp; Bayesian Reasoning |   |   | . | Week 11 |   |   |   | . | Mon Nov 06 | Reasoning with BBNs |   |   | . | Wed Nov 08 | Planning (without uncertainty) |   |   | . | Week 12 |   |   |   | . | Mon Nov 13 | Reinforcement Learning/Probabilistic Planning | MDP, Rewards, and State Space |   | . | Wed Nov 15 | Machine Learning: Decision Trees |   |   | . | Week 13 | Machine Learning |   |   | . | Mon Nov 20 | Supervised Learning |   |   | . | Wed Nov 22 | Regression |   |   | . | Week 14 | Machine Learning |   |   | . | Mon Nov 27 | SVMs, Clustering |   |   | . | Wed Nov 29 | Bagging |   |   | . | Week 15 | Neural Networks |   |   | . | Mon Dec 04 | Feed Forward |   |   | . | Wed Dec 06 | ML Tools |   |   | . | Week 16 |   |   |   | . | Mon Dec 11 | Word Embedding, Transformers |   |   | . | Wed Dec 13 | Study Day No Classes |   |   | . | Week 17 |   |   |   | . | Fri Dec 15 | Final Exam |   |   | . ",
+    "content": "This syllabus and schedule is preliminary and subject to change. Abbreviations refer to the following: . | CIML: Book by Hal Daume | TM: Tom Mitchell | . | Date | Topics | Notes | Readings | . | Week 1 |   |   |   | . | Thu Aug 31 | Course Overview. Administrivia and What is ML?. |   | | . | Week 2 | Supervised Learning |   |   | . | Tue Sep 05 | Supervised learning setup, LMS |   | | . | Thu Sep 07 | Weighted Least Squares, Perceptron, Logistic regression, Newton’s Method |   |   | . | Week 3 |   |   |   | . | Tue Sep 12 | Exponential family. Generalized Linear Models. Multi-class classification. |   |   | . |   | Probabilistic Learning / Generative Learning Models |   |   | . | Thu Sep 14 | Density estimation. Gaussian discriminant analysis. Naive Bayes. |   |   | . | Week 4 |   |   |   | . | Tue Sep 19 | Naive Bayes, Laplace Smoothing. Conditional Models. |   |   | . |   | Kernel Methods |   |   | . | Thu Sep 21 | Kernels, SVM |   |   | . | Week 5 | Neural Networks |   |   | . | Tue Sep 26 | NN Architecture |   |   | . | Thu Sep 28 | NN Backpropagation |   |   | . | Week 6 | Generalization and Regularization |   |   | . | Tue Oct 03 | Bias - Variance Tradeoff. Regularization. |   | | . | Thu Oct 05 | Feature / Model selection. Evaluation Metrics. |   | | . | Week 7 | Unsupervised and less-supervised learning |   |   | . | Tue Oct 10 | K-Means. GMM (non EM). Expectation Maximization. |   |   | . | Thu Oct 12 | GMM (EM) |   |   | . | Week 8 |   |   |   | . | Tue Oct 17 | Midterm Review |   | | . | Thu Oct 19 | Midterm Exam |   |   | . | Week 9 |   |   |   | . | Tue Oct 24 | PCA, ICA |   | | . | Thu Oct 26 | Weak supervised / Self-supervised learning |   |   | . | Week 10 | Reinforcement Learning |   |   | . | Tue Oct 31 | Basic concepts in RL, value iteration, policy iteration |   |   | . | Thu Nov 02 | Model-based RL, value function approximator |   |   | . | Week 11 |   |   |   | . | Tue Nov 07 | Guest Lecture on Monopoly |   | | . | Thu Nov 09 | Learning Theory |   |   | . | Week 12 | Ensemble Learning |   |   | . | Tue Nov 14 | EL |   |   | . | Thu Nov 16 | EL |   |   | . | Week 13 |   |   |   | . | Tue Nov 21 | Genetic / Evolutionary Learning |   | | . | Thu Nov 23 | Thanksgiving Day No Classes |   |   | . | Week 14 |   |   |   | . | Tue Nov 28 | Applications of Evolutionary Learning |   | | . | Thu Nov 30 | Instance-based Learning, KNN |   | | . | Week 15 | Projects |   |   | . | Tue Dec 05 | Project Presentations |   |   | . | Thu Dec 07 | Project Presentations |   |   | . | Week 16 |   |   |   | . | Tue Dec 12 | Final Exam Review |   |   | . | Thu Dec 14 | No Classes |   |   | . | Week 17 |   |   |   | . | Fri Dec 15 | Final Exam |   |   | . ",
     "url": "/#course-schedule",
     
     "relUrl": "/#course-schedule"
@@ -43,193 +43,221 @@
   },"6": {
     "doc": "Home",
     "title": "Midterm and Final Exams",
-    "content": "The material covered by the exams will be drawn from assigned readings in the text, from lectures, from quizzes, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings. ",
+    "content": "The material covered by the exams will be drawn from assigned readings in the text, from lectures, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings. ",
     "url": "/#midterm-and-final-exams",
     
     "relUrl": "/#midterm-and-final-exams"
   },"7": {
     "doc": "Home",
+    "title": "Projects",
+    "content": "The project is meant to give students deeper exposure to some topic in machine learning than they would get from the lectures, readings, and discussions alone. Those projects that are most successful often blend the student’s own research with machine learning, e.g. by applying machine learning techniques to a problem in some other area, or by bringing an insight from some other area to a problem in machine learning. However, projects need not involve ties with ongoing research. Many good projects in the past have investigated the application of existing algorithms to a domain/dataset of interest to the student, such as Texas Hold’em, the stock market, sporting events, and so on. Students can come up with their own project ideas or they can come see me and we’ll brainstorm project ideas. Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found here. ",
+    "url": "/#projects",
+    
+    "relUrl": "/#projects"
+  },"8": {
+    "doc": "Home",
     "title": "Course Evaluation",
-    "content": "Grades will be based on your performance in quizzes, five or six homework assignments, a mid-term examination and a final examination. The overall evaluation is as follows: . | Component | % | . | Quizzes | 10% | . | Assignments | 45% | . | Exams | 40% | . | Course Engagement | 5% | . “Course engagement” consists of, e.g., asking questions, participating in discussions (in class or online), responding to surveys or checkpointing questions, etc.). In absence of quizzes, the percentage would redirect to course engagement. As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F. Grading Scale: The following grading scale is used on the normalized final, rounded percentages: . | If you get at least a/an… | you are guaranteed a/an… or higher | . | 90 | A | . | 80 | B | . | 70 | C | . | 60 | D | . | 0 | F | . ",
+    "content": "Grades will be based on your performance in homework assignments, project, a mid-term examination and a final examination. There will be 5-10 homeworks throughout the semester. The overall evaluation is as follows: . | Component | % | . | Homework/Programming Assignments | 50% | . | Exams | 15% each, 30% | . | Project | 20% | . “Course engagement” consists of, e.g., asking questions, participating in discussions (in class or online), responding to surveys or checkpointing questions, etc.). “Course engagement” could count in your favor in borderline cases. As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F. Grading Scale: The following grading scale is used on the normalized final, rounded percentages: . | If you get at least a/an… | you are guaranteed a/an… or higher | . | 90 | A | . | 80 | B | . | 70 | C | . | 60 | D | . | 0 | F | . ",
     "url": "/#course-evaluation",
     
     "relUrl": "/#course-evaluation"
-  },"8": {
+  },"9": {
     "doc": "Home",
     "title": "Policies",
-    "content": "If you have extenuating circumstances that result in an assignment being late, please talk to me as soon as possible. Due Dates . Due dates will be announced on the course website and Campuswire. Unless stated otherwise, items are due by 11:59 PM (UMBC time) of the specified day. Submission instructions will be provided with each assigned item. Extensions and Late Policy . Personal or one-off extensions will not be granted. Instead, everyone in this course has ten (10) late days to use as needed throughout the course. These are meant for personal reasons and emergencies; do not use them as an excuse to procrastinate. Late days are measured in 24 hour blocks after a deadline. They are not fractional: an assignment turned in between 1 minute and 23 hours, 59 minutes (1,439 minutes) after the deadline uses one late day, an assignment turned in between 24 hours and 47 hours, 59 minutes (2879) after the deadline uses two late days, etc. The number of late days remaining has no bearing on assignments you turn in by the deadline; they only affect assignments you turn in after the deadline. If you run out of late days and do not turn an assignment in on time, please still complete and turn in the assignments. Though late assignments after late days have been exhausted will be recorded as a 0, they will still be marked and returned to you. Morever, they could count in your favor in borderline cases. There is a hard cutoff of the final exam block. Late days cannot be used beyond this time. I reserve the right to issue class-wide extensions. Academic Honesty . Do not cheat, deceive, plagiarize, improperly share, access or use code, or otherwise engage in academically dishonest behaviors. Doing so may result in lost credit, course failure, suspension, or dismissal from UMBC. Instances of suspected dishonesty will be handled through the proper administrative procedures. We will follow a policy described in this statement adopted by UMBC’s Undergraduate Council and Provost’s Office. By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC’s scholarly community, in which everyone’s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. Especially for computer science classes, there are generally questions about what is and is not allowed. You are encouraged to discuss the subject matter and assignments with others. The Campuswire discussion board provides a great forum for this. However, you may not write or complete assignments for another student; allow another student to write or complete your assignments; pair program; copy someone else’s work; or allow your work to be copied. (This list is not inclusive.) . As part of discussing the assignments, you may plan with other students; be careful when dealing with pseudocode. A good general rule is that if anything is written down when discussing the assignments with others, you must actually implement it separately and you must not look at your discussion notes. You are free to use online references like Stack Overflow for questions that are not the primary aspect of the course. If, for example, you’re having an issue with unicode in Python, or are getting a weird compilation error, then sites like Stack Overflow are a great resource. Don’t get stuck fighting your tools. You may generally use external libraries (and even parts of standard libraries), provided what you use does not actually implement what you are directed to implement. Generative AI: For this class, if you use ChatGPT (or similar chatbots or AI-based generation tools), you must describe exactly how you used it, including providing the prompt, original generation, and your edits. This applies to prose, code, or any form of content creation. Not disclosing is an academic integrity violation. If you do disclose, your answer may receive anywhere from 0 to full credit, depending on the extent of substantive edits, achievement of learning outcomes, and overall circumvention of those outcomes. Use of AI/automatic tools for grammatical assistance (such as spell-checkers or Grammarly) or small-scale predictive text (e.g., next word prediction, tab completion) is okay. Provided the use of these tools does not change the substance of your work, use of these tools may be, but is not required to be, disclosed. Be sure to properly acknowledge whatever external help—be it from students, third party libraries, or other readings—you receive in the beginning of each assignment. Please review this overview of how to correctly cite a source and these guidelines on acceptable paraphrasing. ",
+    "content": "If you have extenuating circumstances that result in an assignment being late, please talk to me as soon as possible. Due Dates . Due dates will be announced on the course website and Campuswire. Unless stated otherwise, items are due by 11:59 PM (UMBC time) of the specified day. Submission instructions will be provided with each assigned item. Extensions and Late Policy . Personal or one-off extensions will not be granted. Instead, everyone in this course has ten (10) late days (3 days maximum for each assignment) to use as needed throughout the course. These are meant for personal reasons and emergencies; do not use them as an excuse to procrastinate. Late days are measured in 24 hour blocks after a deadline. They are not fractional: an assignment turned in between 1 minute and 23 hours, 59 minutes (1,439 minutes) after the deadline uses one late day, an assignment turned in between 24 hours and 47 hours, 59 minutes (2879) after the deadline uses two late days, etc. The number of late days remaining has no bearing on assignments you turn in by the deadline; they only affect assignments you turn in after the deadline. If you run out of late days and do not turn an assignment in on time, please still complete and turn in the assignments. Though late assignments after late days have been exhausted will be recorded as a 0, they will still be marked and returned to you. Morever, they could count in your favor in borderline cases. There is a hard cutoff of the final exam block. Late days cannot be used beyond this time. I reserve the right to issue class-wide extensions. Academic Honesty . Do not cheat, deceive, plagiarize, improperly share, access or use code, or otherwise engage in academically dishonest behaviors. Doing so may result in lost credit, course failure, suspension, or dismissal from UMBC. Instances of suspected dishonesty will be handled through the proper administrative procedures. We will follow a policy described in this statement adopted by UMBC’s Undergraduate Council and Provost’s Office. By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC’s scholarly community, in which everyone’s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. Especially for computer science classes, there are generally questions about what is and is not alloThu. You are encouraged to discuss the subject matter and assignments with others. The Campuswire discussion board provides a great forum for this. However, you may not write or complete assignments for another student; allow another student to write or complete your assignments; pair program; copy someone else’s work; or allow your work to be copied. (This list is not inclusive.) . As part of discussing the assignments, you may plan with other students; be careful when dealing with pseudocode. A good general rule is that if anything is written down when discussing the assignments with others, you must actually implement it separately and you must not look at your discussion notes. You are free to use online references like Stack Overflow for questions that are not the primary aspect of the course. If, for example, you’re having an issue with unicode in Python, or are getting a weird compilation error, then sites like Stack Overflow are a great resource. Don’t get stuck fighting your tools. You may generally use external libraries (and even parts of standard libraries), provided what you use does not actually implement what you are directed to implement. Generative AI: For this class, if you use ChatGPT (or similar chatbots or AI-based generation tools), you must describe exactly how you used it, including providing the prompt, original generation, and your edits. This applies to prose, code, or any form of content creation. Not disclosing is an academic integrity violation. If you do disclose, your answer may receive anywhere from 0 to full credit, depending on the extent of substantive edits, achievement of learning outcomes, and overall circumvention of those outcomes. Use of AI/automatic tools for grammatical assistance (such as spell-checkers or Grammarly) or small-scale predictive text (e.g., next word prediction, tab completion) is okay. Provided the use of these tools does not change the substance of your work, use of these tools may be, but is not required to be, disclosed. Be sure to properly acknowledge whatever external help—be it from students, third party libraries, or other readings—you receive in the beginning of each assignment. Please review this overview of how to correctly cite a source and these guidelines on acceptable paraphrasing. ",
     "url": "/#policies",
     
     "relUrl": "/#policies"
-  },"9": {
+  },"10": {
     "doc": "Home",
     "title": "Accomodations",
-    "content": "Students with Accommodation Needs . The Office of Student Disability Services (SDS, https://sds.umbc.edu) works to ensure that students can access and take advantage of UMBC’s educational environment, regardless of disability. From the SDS, . Accommodations for students with disabilities are provided for all students with a qualified disability under the Americans with Disabilities Act (ADA &amp; ADAAA) and Section 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of Student Disability Services (SDS) is the UMBC department designated to coordinate accommodations that creates equal access for students when barriers to participation exist in University courses, programs, or activities. If you have a documented disability and need to request academic accommodations in your courses, please refer to the SDS website at sds.umbc.edu for registration information and office procedures. SDS email: disAbility@umbc.edu . SDS phone: 410-455-2459 . If you require the use of SDS-approved accommodations in this class, please make an appointment with me to discuss the implementation of the accommodations. Religious Observances &amp; Accommodations UMBC Policy provides that students should not be penalized because of observances of their religious beliefs, and that students shall be given an opportunity, whenever feasible, to make up within a reasonable time any academic assignment that is missed due to individual participation in religious observances. It is the responsibility of the student to inform me of any intended absences or requested modifications for religious observances in advance, and as early as possible. Sexual Assault, Sexual Harassment, and Gender-based Violence and Discrimination . UMBC Policy in addition to federal and state law (to include Title IX) prohibits discrimination and harassment on the basis of sex, sexual orientation, and gender identity in University programs and activities. Any student who is impacted by sexual harassment, sexual assault, domestic violence, dating violence, stalking, sexual exploitation, gender discrimination, pregnancy discrimination, gender-based harassment, or related retaliation should contact the University’s Title IX Coordinator to make a report and/or access support and resources. The Title IX Coordinator can be reached at titleixcoordinator@umbc.edu or 410-455-1717. You can access support and resources even if you do not want to take any further action. You will not be forced to file a formal complaint or police report. Please be aware that the University may take action on its own if essential to protect the safety of the community. If you are interested in making a report, please use the Online Reporting/Referral Form. Please note that, if you report anonymously, the University’s ability to respond will be limited. Faculty Reporting Obligations . All faculty members and teaching assistants are considered Responsible Employees, per UMBC’s Policy on Sexual Misconduct, Sexual Harassment, and Gender Discrimination. So please note that as instructors, I, other faculty members, and the teaching assistants are required to report all known information regarding alleged conduct that may be a violation of the Policy to the University’s Title IX Coordinator, even if a student discloses an experience that occurred before attending UMBC and/or an incident that only involves people not affiliated with UMBC. Reports are required regardless of the amount of detail provided and even in instances where support has already been offered or received. While faculty members want to encourage you to share information related to your life experiences through discussion and written work, students should understand that faculty are required to report past and present sexual harassment, sexual assault, domestic and dating violence, stalking, and gender discrimination that is shared with them to the Title IX Coordinator so that the University can inform students of their rights, resources, and support. While you are encouraged to do so, you are not obligated to respond to outreach conducted as a result of a report to the Title IX Coordinator. If you need to speak with someone in confidence, who does not have an obligation to report to the Title IX Coordinator, UMBC has a number of Confidential Resources available to support you: . | Retriever Integrated Health (Main Campus): 410-455-2472; Monday – Friday 8:30 a.m. – 5 p.m.; For After-Hours Support, Call 988. | Pastoral Counseling via The Gathering Space for Spiritual Well-Being: 410-455-6795; i3b@umbc.edu; Monday – Friday 8:00 a.m. – 10:00 p.m. | For after-hours emergency consultation, call the police at 410-455-5555 . | . Other Resources: . | Women’s Center (open to students of all genders): 410-455-2714; womenscenter@umbc.edu; Monday – Thursday 9:30 a.m. – 5:00 p.m. and Friday 10:00 a.m. – 4 p.m. | Maryland Resources, National Resources . | . Child Abuse and Neglect . Please note that Maryland law and UMBC policy require that I report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police even if the person who experienced the abuse or neglect is now over 18. Hate, Bias, Discrimination, and Harassment . UMBC values safety, cultural and ethnic diversity, social responsibility, lifelong learning, equity, and civic engagement. Consistent with these principles, UMBC Policy prohibits discrimination and harassment in its educational programs and activities or with respect to employment terms and conditions based on race, creed, color, religion, sex, gender, pregnancy, ancestry, age, gender identity or expression, national origin, veterans status, marital status, sexual orientation, physical or mental disability, or genetic information. Students (and faculty and staff) who experience discrimination, harassment, hate, or bias based upon a protected status or who have such matters reported to them should use the online reporting/referral form to report discrimination, hate, or bias incidents. You may report incidents that happen to you anonymously. Please note that, if you report anonymously, the University’s ability to respond may be limited. ",
+    "content": "Students with Accommodation Needs . The Office of Student Disability Services (SDS, https://sds.umbc.edu) works to ensure that students can access and take advantage of UMBC’s educational environment, regardless of disability. From the SDS, . Accommodations for students with disabilities are provided for all students with a qualified disability under the Americans with Disabilities Act (ADA &amp; ADAAA) and Section 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of Student Disability Services (SDS) is the UMBC department designated to coordinate accommodations that creates equal access for students when barriers to participation exist in University courses, programs, or activities. If you have a documented disability and need to request academic accommodations in your courses, please refer to the SDS website at sds.umbc.edu for registration information and office procedures. SDS email: disAbility@umbc.edu . SDS phone: 410-455-2459 . If you require the use of SDS-approved accommodations in this class, please make an appointment with me to discuss the implementation of the accommodations. Religious Observances &amp; Accommodations UMBC Policy provides that students should not be penalized because of observances of their religious beliefs, and that students shall be given an opportunity, whenever feasible, to make up within a reasonable time any academic assignment that is missed due to individual participation in religious observances. It is the responsibility of the student to inform me of any intended absences or requested modifications for religious observances in advance, and as early as possible. Sexual Assault, Sexual Harassment, and Gender-based Violence and Discrimination . UMBC Policy in addition to federal and state law (to include Title IX) prohibits discrimination and harassment on the basis of sex, sexual orientation, and gender identity in University programs and activities. Any student who is impacted by sexual harassment, sexual assault, domestic violence, dating violence, stalking, sexual exploitation, gender discrimination, pregnancy discrimination, gender-based harassment, or related retaliation should contact the University’s Title IX Coordinator to make a report and/or access support and resources. The Title IX Coordinator can be reached at titleixcoordinator@umbc.edu or 410-455-1717. You can access support and resources even if you do not want to take any further action. You will not be forced to file a formal complaint or police report. Please be aware that the University may take action on its own if essential to protect the safety of the community. If you are interested in making a report, please use the Online Reporting/Referral Form. Please note that, if you report anonymously, the University’s ability to respond will be limited. Faculty Reporting Obligations . All faculty members and teaching assistants are considered Responsible Employees, per UMBC’s Policy on Sexual Misconduct, Sexual Harassment, and Gender Discrimination. So please note that as instructors, I, other faculty members, and the teaching assistants are required to report all known information regarding alleged conduct that may be a violation of the Policy to the University’s Title IX Coordinator, even if a student discloses an experience that occurred before attending UMBC and/or an incident that only involves people not affiliated with UMBC. Reports are required regardless of the amount of detail provided and even in instances where support has already been offered or received. While faculty members want to encourage you to share information related to your life experiences through discussion and written work, students should understand that faculty are required to report past and present sexual harassment, sexual assault, domestic and dating violence, stalking, and gender discrimination that is shared with them to the Title IX Coordinator so that the University can inform students of their rights, resources, and support. While you are encouraged to do so, you are not obligated to respond to outreach conducted as a result of a report to the Title IX Coordinator. If you need to speak with someone in confidence, who does not have an obligation to report to the Title IX Coordinator, UMBC has a number of Confidential Resources available to support you: . | Retriever Integrated Health (Main Campus): 410-455-2472; Tueday – Friday 8:30 a.m. – 5 p.m.; For After-Hours Support, Call 988. | Pastoral Counseling via The Gathering Space for Spiritual Well-Being: 410-455-6795; i3b@umbc.edu; Tueday – Friday 8:00 a.m. – 10:00 p.m. | For after-hours emergency consultation, call the police at 410-455-5555 . | . Other Resources: . | Women’s Center (open to students of all genders): 410-455-2714; womenscenter@umbc.edu; Tueday – Thursday 9:30 a.m. – 5:00 p.m. and Friday 10:00 a.m. – 4 p.m. | Maryland Resources, National Resources . | . Child Abuse and Neglect . Please note that Maryland law and UMBC policy require that I report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police even if the person who experienced the abuse or neglect is now over 18. Hate, Bias, Discrimination, and Harassment . UMBC values safety, cultural and ethnic diversity, social responsibility, lifelong learning, equity, and civic engagement. Consistent with these principles, UMBC Policy prohibits discrimination and harassment in its educational programs and activities or with respect to employment terms and conditions based on race, creed, color, religion, sex, gender, pregnancy, ancestry, age, gender identity or expression, national origin, veterans status, marital status, sexual orientation, physical or mental disability, or genetic information. Students (and faculty and staff) who experience discrimination, harassment, hate, or bias based upon a protected status or who have such matters reported to them should use the online reporting/referral form to report discrimination, hate, or bias incidents. You may report incidents that happen to you anonymously. Please note that, if you report anonymously, the University’s ability to respond may be limited. ",
     "url": "/#accomodations",
     
     "relUrl": "/#accomodations"
-  },"10": {
+  },"11": {
     "doc": "Home",
     "title": "Acknowledgements",
-    "content": "This class borrows inspirations from several incredible sources. The lecture slides’ material is partially adapted from my colleagues, Tim Finin and Frank Ferraro’s class at UMBC. ",
+    "content": "This class borrows inspirations from several incredible sources. The project description is inspired by my colleague, Tim Oates. Some of the lecture slides’ material will be adapted from Machine Learning course offered by Stanford. ",
     "url": "/#acknowledgements",
     
     "relUrl": "/#acknowledgements"
-  },"11": {
+  },"12": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"12": {
+  },"13": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"13": {
+  },"14": {
     "doc": "About",
     "title": "Table of contents",
     "content": ". | About | Lecture | Resources | Assignments | . ",
     "url": "/about/#table-of-contents",
     
     "relUrl": "/about/#table-of-contents"
-  },"14": {
+  },"15": {
     "doc": "About",
     "title": "About",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"15": {
+  },"16": {
     "doc": "About",
     "title": "Lecture",
     "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
     "url": "/about/#lecture",
     
     "relUrl": "/about/#lecture"
-  },"16": {
+  },"17": {
     "doc": "About",
     "title": "Resources",
     "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
     "url": "/about/#resources",
     
     "relUrl": "/about/#resources"
-  },"17": {
+  },"18": {
     "doc": "About",
     "title": "Assignments",
     "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
     "url": "/about/#assignments",
     
     "relUrl": "/about/#assignments"
-  },"18": {
+  },"19": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"19": {
+  },"20": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"20": {
+  },"21": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Apr 1 &middot; 0 min read Hello world! . ",
     "url": "/announcements/",
     
     "relUrl": "/announcements/"
-  },"21": {
+  },"22": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
     "url": "/calendar/",
     
     "relUrl": "/calendar/"
-  },"22": {
+  },"23": {
     "doc": "Calendar",
     "title": "Introduction to Java",
     "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
     "url": "/calendar/#introduction-to-java",
     
     "relUrl": "/calendar/#introduction-to-java"
-  },"23": {
+  },"24": {
     "doc": "Calendar",
     "title": "Basic Data Structures",
     "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
     "url": "/calendar/#basic-data-structures",
     
     "relUrl": "/calendar/#basic-data-structures"
-  },"24": {
+  },"25": {
+    "doc": "More on Projects",
+    "title": "Introduction to Machine Learning",
+    "content": " ",
+    "url": "/projects/#introduction-to-machine-learning",
+    
+    "relUrl": "/projects/#introduction-to-machine-learning"
+  },"26": {
+    "doc": "More on Projects",
+    "title": "Course Project Information",
+    "content": "The course project is an opportunity for you to explore an interesting machine learning problem of your choice in the context of real-world data. Projects can be done by you as an individual, or in teams of two students. The instructor will consult with you on your ideas, but of course the final responsibility to define and execute an interesting piece of work is yours. Your project will be worth 20% of your final class grade, and will have 3 deliverables: . | Proposal: 1 page (10%) | Final report: 5-8 pages (75%) | Project presentation: (15%) | . See the course schedule for dates. Note that all write-ups must be in the form of an ICML paper (8 pages maximum in ICML format, including references). The page limit is strict! Write-ups over the limit will not be considered. Latex and Word templates for ICML format can be found here. What Makes a Good Project? . There are typically two types of projects: (1) A student is involved in ongoing research and identifies some aspect of the problem on which they are working for which ML techniques could be useful. (2) A student has some outside interest, such as playing Texas Hold’em or the stock market, and identifies/obtains data from that domain that can used to test the utility of one or more ML algorithms. For example, one could (in theory) use reinforcement learning to learn to play Texas Hold’em, or Support Vector Regression to learn to predict the closing price of IBM stock. In some cases, students identify a research question that is inherently interesting for ML researchers and work on that question. Project Proposal . You must turn in a brief project proposal (1 page maximum). Proposals should include the following information: . | Project title | Datasets to be used | Project idea (this should be approximately two paragraphs) | Software you will use or need to write | Papers to read. Include 1-3 relevant papers. You will probably want to read at least one of them before submitting your proposal. | Teamate. Will you have a teamate? If so, whom? Maximum team size is two students. | You should also describe a plan of work and what each team member will be doing. | . Final Report . Your final report is expected to be a 5-8 page report. It should roughly have the following format: . | Introduction/motivation | Problem definition | Proposed method | Intuition - why do you expect the proposed method to work? | Experiments - description of your testbed; list of questions your experiments are designed to answer | Details of the experiments; observations | Conclusions | . ",
+    "url": "/projects/#course-project-information",
+    
+    "relUrl": "/projects/#course-project-information"
+  },"27": {
+    "doc": "More on Projects",
+    "title": "More on Projects",
+    "content": " ",
+    "url": "/projects/",
+    
+    "relUrl": "/projects/"
+  },"28": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/schedule/#weekly-schedule",
     
     "relUrl": "/schedule/#weekly-schedule"
-  },"25": {
+  },"29": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"26": {
+  },"30": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"27": {
+  },"31": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"28": {
+  },"32": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"29": {
+  },"33": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"30": {
+  },"34": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
-  },"31": {
+  },"35": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "/staff/",
     
     "relUrl": "/staff/"
-  },"32": {
+  },"36": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Kevin Lin . me@example.com . Office Hours Somewhere on the internet . Schedule an appointment . ",
     "url": "/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"33": {
+  },"37": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Evil Kevin . me@example.com . I like teaching Computer Science! . More Evil Kevin . me@example.com . I like teaching Computer Science! . Really Evil Kevin . me@example.com . I like teaching Computer Science! . ",
