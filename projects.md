@@ -13,7 +13,7 @@ The course project is an opportunity for you to explore an interesting machine l
 - Project presentation: (15%)
 
 See the course schedule for dates.
-Note that all write-ups must be in the form of an ICML paper (8 pages maximum in ICML format, including references). The page limit is strict! Write-ups over the limit will not be considered. Latex and Word templates for ICML format can be found [here](http://www.icml-2011.org/formats/icml2011stylefiles.zip).
+Note that all write-ups must be in the form of an ICML paper (8 pages maximum in ICML format, including references). The page limit is strict! Write-ups over the limit will not be considered. Latex and Word templates for ICML format can be found [here](https://icml.cc/2012/files/icml2012stylefiles.zip).
 
 ### What Makes a Good Project?
 There are typically two types of projects: (1) A student is involved in ongoing research and identifies some aspect of the problem on which they are working for which ML techniques could be useful. (2) A student has some outside interest, such as playing Texas Hold'em or the stock market, and identifies/obtains data from that domain that can used to test the utility of one or more ML algorithms. For example, one could (in theory) use reinforcement learning to learn to play Texas Hold'em, or Support Vector Regression to learn to predict the closing price of IBM stock. In some cases, students identify a research question that is inherently interesting for ML researchers and work on that question.

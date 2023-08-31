@@ -39,21 +39,22 @@ seo:
 - Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
 - Office hours
   - `Thu 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `Thu 3-5pm, or by appointment`, TBD, Surya Kiran Challagulla
+  - `Thu 3-5pm, or by appointment`, ITE 334, Surya Kiran Challagulla
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G5403DC1B/feed).
 <!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
 
 ## Course Description
 
-This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. The topics covered will include problem-solving approaches, problem spaces and search, knowledge representation and reasoning, logic and deduction, planning, expert systems, handling uncertainty, learning and natural language understanding. 
+This course serves as a foundation to apply machine learning techniques in different domains and for more advanced learning problems. The topics covered will include supervised learning, unsupervised learning, reinforcement learning, weakly or self-supervised learning, Generalization and Regularization, and Ensemble Learning. 
 <!-- Other special or current topics (e.g., fairness and ethics in AI) may be covered as well. -->
 
 The goals for this course are:
-- be introduced to some of the core problems and solutions of artificial intelligence (AI);
-- learn different ways that success and progress can be measured in AI;
+- be introduced to some of the core problems and solutions of ML;
+- learn different ways that success and progress can be measured in ML;
 - be exposed to how these problems relate to those in computer science and subfields of computer science;
-- have experience experimenting with AI approaches;
+- have experience experimenting with ML approaches;
+- identify issues with features, data, and how to handle them;
 
 ### Textbooks
 
@@ -143,7 +144,7 @@ The material covered by the exams will be drawn from assigned readings in the te
 ## Projects
 The project is meant to give students deeper exposure to some topic in machine learning than they would get from the lectures, readings, and discussions alone. Those projects that are most successful often blend the student's own research with machine learning, e.g. by applying machine learning techniques to a problem in some other area, or by bringing an insight from some other area to a problem in machine learning. However, projects need not involve ties with ongoing research. Many good projects in the past have investigated the application of existing algorithms to a domain/dataset of interest to the student, such as Texas Hold'em, the stock market, sporting events, and so on. Students can come up with their own project ideas or they can come see me and we'll brainstorm project ideas. 
 
-Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](/projects).
+Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](https://umbc-cmsc478.github.io/fall2023-public/projects/).
 
 ## Course Evaluation
 
