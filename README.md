@@ -46,14 +46,15 @@ seo:
 
 ## Course Description
 
-This course serves as an introduction to Artificial Intelligence concepts and techniques. We will cover most of the material in our text, [Artificial Intelligence: A Modern Approach (4th edition)](http://aima.cs.berkeley.edu/) by Stuart Russell and Peter Norvig. The topics covered will include problem-solving approaches, problem spaces and search, knowledge representation and reasoning, logic and deduction, planning, expert systems, handling uncertainty, learning and natural language understanding. 
+This course serves as a foundation to apply machine learning techniques in different domains and for more advanced learning problems. The topics covered will include supervised learning, unsupervised learning, reinforcement learning, weakly or self-supervised learning, Generalization and Regularization, and Ensemble Learning. 
 <!-- Other special or current topics (e.g., fairness and ethics in AI) may be covered as well. -->
 
 The goals for this course are:
-- be introduced to some of the core problems and solutions of artificial intelligence (AI);
-- learn different ways that success and progress can be measured in AI;
+- be introduced to some of the core problems and solutions of ML;
+- learn different ways that success and progress can be measured in ML;
 - be exposed to how these problems relate to those in computer science and subfields of computer science;
-- have experience experimenting with AI approaches;
+- have experience experimenting with ML approaches;
+- identify issues with features, data, and how to handle them;
 
 ### Textbooks
 
