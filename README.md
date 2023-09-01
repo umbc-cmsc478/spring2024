@@ -77,7 +77,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
 | **Week 1** | | | 
-| Thu <br> Aug 31 | [Course Overview. Administrivia and What is ML?](assets/478-01-intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
+| Thu <br> Aug 31 | [Course Overview. Administrivia and What is ML?](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
 | **Week 2** | **Supervised Learning** | | 
 | Tue <br> Sep 05 | Supervised learning setup, LMS | |  <!--Stanford if otherwise not mentioned-->
 | Thu <br> Sep 07 | Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method | | 
