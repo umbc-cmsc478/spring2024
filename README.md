@@ -74,10 +74,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > - CIML: Book by Hal Daume
 > - TM: Tom Mitchell
 
-| Date      | Topics      | Notes | Readings |
-| :---------| :-----------| :------  | :------ |
+| Date      | Topics      | Notes | Readings | See Also
+| :---------| :-----------| :------  | :------ | :---------------- |
 | **Week 1** | | | 
-| Thu <br> Aug 31 | Course Overview. Administrivia and What is ML?. | |  <!--DT from Mitchell or CIML-->
+| Thu <br> Aug 31 | [Course Overview. Administrivia and What is ML?]((assets/478-01-intro.pdf)) | | | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
 | **Week 2** | **Supervised Learning** | | 
 | Tue <br> Sep 05 | Supervised learning setup, LMS | |  <!--Stanford if otherwise not mentioned-->
 | Thu <br> Sep 07 | Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method | | 
