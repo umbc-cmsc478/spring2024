@@ -58,7 +58,7 @@ The goals for this course are:
 
 ### Textbooks
 
- Hal Daume from UMCP has written a good text for an introductory course in machine learning. You can get it here: [CIML](http://ciml.info/). Another good source is [Machine Learning by Tom Mitechell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf).
+ Hal Daume from UMCP has written a good text for an introductory course in machine learning. You can get it here: [CIML](http://ciml.info/). Another good source is [Machine Learning by Tom Mitechell](http://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf). There are also some [lecture notes](assets/Lecture-Notes-Stanford-ML.pdf) from Stanford ML group. We will use some parts of that. 
 
 There are a few other online texts that we'll draw from or I will give you specific lecture notes. You'll find links to them below in the schedule of topics, with specific sections that you should read.
 
@@ -73,13 +73,14 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > Abbreviations refer to the following:
 > - CIML: Book by Hal Daume
 > - TM: Tom Mitchell
+> - SML: [Lecture Notes from Stanford ML](assets/Lecture-Notes-Stanford-ML.pdf)
 
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
 | **Week 1** | | | 
 | Thu <br> Aug 31 | [Course Overview. Administrivia and What is ML?](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
 | **Week 2** | **Supervised Learning** | | 
-| Tue <br> Sep 05 | [Supervised learning setup, LMS](assets/478-02-Regression.pdf) | |  <!--Stanford if otherwise not mentioned-->
+| Tue <br> Sep 05 | [Supervised learning setup, LMS](assets/478-02-Regression.pdf) | | [SML 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
 | Thu <br> Sep 07 | Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method | | 
 | **Week 3** | | | 
 | Tue <br> Sep 12 | Exponential family. Generalized Linear Models. Multi-class classification. | |
