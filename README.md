@@ -94,7 +94,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Sep 28 | NN Backpropagation | |
 | **Week 6** | **Generalization and Regularization**| | 
 | Tue <br> Oct 03 | Bias - Variance Tradeoff. Regularization.  | |   <!--CIML Chap 5-->
-| Thu <br> Oct 05 | Feature / Model selection. Evaluation Metrics. | | <!--CIML Chap 8-->
+| Thu <br> Oct 05 | Feature / Model selection. Evaluation Metrics. | **Project Proposal Due** | <!--CIML Chap 8-->
 | **Week 7** | **Unsupervised and less-supervised learning** | | 
 | Tue <br> Oct 10 | K-Means. GMM (non EM). Expectation Maximization. | |
 | Thu <br> Oct 12 | GMM (EM) | |
