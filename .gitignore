@@ -4,6 +4,10 @@
 .jekyll-metadata
 .sass-cache/
 Gemfile.lock
-_site/
+_site/*
 node_modules/
 vendor/
+_site/index.html
+_site/projects/index.html
+_site/assets/js/search-data.json
+_staffers/.DS_Store
