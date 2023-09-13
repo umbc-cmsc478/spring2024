@@ -83,7 +83,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Sep 05 | [Supervised learning setup, LMS](assets/478-02-Regression.pdf) | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
 | Thu <br> Sep 07 | [Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method](assets/478-03-Classification-LR-updated.pdf) | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
 | **Week 3** | | | 
-| Tue <br> Sep 12 | Exponential family. Generalized Linear Models. Multi-class classification. | |
+| Tue <br> Sep 12 | [Multi-class classification](assets/478-04-Multiclass-Classification.pdf) | | [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
 |            | **Probabilistic Learning / Generative Learning Models** | | 
 | Thu <br> Sep 14 | *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  | |
 | **Week 4** | | | 
