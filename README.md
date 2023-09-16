@@ -84,8 +84,8 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Sep 07 | [Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method](assets/478-03-Classification-LR-updated.pdf) | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
 | **Week 3** | | | 
 | Tue <br> Sep 12 | [Multi-class classification](assets/478-04-Multiclass-Classification.pdf) | | [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
-|            | **Probabilistic Learning / Generative Learning Models** | | 
-| Thu <br> Sep 14 | *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  | |
+|            | **Generative Learning Models** | | 
+| Thu <br> Sep 14 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP.pdf) | **HW1 is out on BB** and due on 09/25| [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  -->
 | **Week 4** | | | 
 | Tue <br> Sep 19 | Naive Bayes, Laplace Smoothing. *Conditional Models.* | |
 |            |  **Kernel Methods** | | 
