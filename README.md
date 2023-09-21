@@ -88,7 +88,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Sep 14 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) | **HW1 is out on BB** and due on 09/25| [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
 | **Week 4** | | | 
 | Tue <br> Sep 19 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
-| Thu <br> Sep 21 | | | <!--  **Kernel Methods** Kernels, SVM -->
+| Thu <br> Sep 21 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | | <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** | **Neural Networks** | | 
 | Tue <br> Sep 26 | NN Architecture | |
 | Thu <br> Sep 28 | NN Backpropagation | |
