@@ -74,6 +74,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > - CIML: Book by Hal Daume
 > - TM: Tom Mitchell
 > - SML: [Lecture Notes from Stanford ML](assets/Lecture-Notes-Stanford-ML.pdf)
+> - LN: [Lecture Notes, CMSC471 by KMA Solaiman](assets/Lecture_Notes_CMSC471_fall2023.pdf)
 
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
@@ -90,7 +91,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Sep 19 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
 | Thu <br> Sep 21 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** |  | | 
-| Tue <br> Sep 26 | [Gaussian Naive Bayes](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4
+| Tue <br> Sep 26 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
 |            | **Generalization and Regularization** | | 
 | Thu <br> Sep 28 | Bias - Variance Tradeoff | | SML Chapter 8.1
 | **Week 6** | | | 
