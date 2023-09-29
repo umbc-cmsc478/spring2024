@@ -90,11 +90,12 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Sep 19 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
 | Thu <br> Sep 21 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** |  | | 
-| Tue <br> Sep 26 | [Gaussian Naive Bayes, Bias-Variance](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, 8.1 
-| Thu <br> Sep 28 | NN Architecture, NN Backpropagation | |
-| **Week 6** | **Generalization and Regularization**| | 
-| Tue <br> Oct 03 | Bias - Variance Tradeoff. Regularization.  | |   <!--CIML Chap 5-->
-| Thu <br> Oct 05 | Feature / Model selection. Evaluation Metrics. | **Project Proposal Due** | <!--CIML Chap 8-->
+| Tue <br> Sep 26 | [Gaussian Naive Bayes](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4
+|            | **Generalization and Regularization** | | 
+| Thu <br> Sep 28 | Bias - Variance Tradeoff | | SML Chapter 8.1
+| **Week 6** | | | 
+| Tue <br> Oct 03 | Proposal Overview.  | |   <!--CIML Chap 5-->
+| Thu <br> Oct 05 | Regularization. Feature / Model selection. Evaluation Metrics. | **Project Proposal Due** | <!--CIML Chap 8-->
 | **Week 7** | **Unsupervised and less-supervised learning** | | 
 | Tue <br> Oct 10 | K-Means. GMM (non EM). Expectation Maximization. | |
 | Thu <br> Oct 12 | GMM (EM) | |
