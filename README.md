@@ -96,7 +96,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Sep 28 | Bias - Variance Tradeoff | | SML Chapter 8.1
 | **Week 6** | | | 
 | Tue <br> Oct 03 | Proposal Overview.  | |   <!--CIML Chap 5-->
-| Thu <br> Oct 05 | Regularization. Feature / Model selection. Evaluation Metrics. | **Project Proposal Due** | <!--CIML Chap 8-->
+| Thu <br> Oct 05 | Regularization. Feature / Model selection. Evaluation Metrics. | **Project Proposal Due on Oct 7** | SML Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** | **Unsupervised and less-supervised learning** | | 
 | Tue <br> Oct 10 | K-Means. GMM (non EM). Expectation Maximization. | |
 | Thu <br> Oct 12 | GMM (EM) | |
