@@ -98,10 +98,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 03 | Proposal Overview.  | |   <!--CIML Chap 5-->
 | Thu <br> Oct 05 | Regularization. Feature / Model selection. Evaluation Metrics. | **Project Proposal Due on Oct 7** | SML Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** | **Unsupervised and less-supervised learning** | | 
-| Tue <br> Oct 10 | K-Means. GMM (non EM). Expectation Maximization. | |
-| Thu <br> Oct 12 | GMM (EM) | |
+| Tue <br> Oct 10 | Kernels, SVM  | |
+| Thu <br> Oct 12 | Neural Network | | <!-- K-Means. GMM (non EM & EM). Expectation Maximization. -->
 | **Week 8** | | | 
-| Tue <br> Oct 17 | **Midterm Review** | |    <!-- PAC, VC-->
+| Tue <br> Oct 17 | Midterm Review | |    <!-- PAC, VC--> <!--**Midterm Review**-->
 | Thu <br> Oct 19 | **Midterm Exam** | |
 | **Week 9** | | | 
 | Tue <br> Oct 24 | PCA, ICA | |        <!-- + Factor analysis-->
