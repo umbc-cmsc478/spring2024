@@ -51,7 +51,7 @@ Listed below are the minimum things you should be prepared to do. This is not an
 I am providing some sample exams. Please be reminded that not all the topics in the questions have been convered in our classes. **I have crossed them out.** But if you still see a question with unfamiliar topic, do not focus on that. Some topics such as bias-variance may have similar questions, but with classifiers/models we have covered. Some old midterms from CMU 10-701 course:
 
 - [2006-with-Solution](/assets/sample-midterms/midterm2006-solution.pdf)
-- [2008-with-Solution](/assets/sample-midterms/midterm2008-solution.pdf)
+- [2008-Spring-with-Solution](/assets/sample-midterms/midterm2008s-solution.pdf)
 - [2009-Fall-with-Solution](/assets/sample-midterms/midterm2009f_sol.pdf)
 - [2010-Fall-with-Solution](/assets/sample-midterms/midterm2010f_sol.pdf)
 
