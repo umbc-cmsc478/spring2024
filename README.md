@@ -101,7 +101,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 10 | Kernels  |  | SML Chapter 5
 | Thu <br> Oct 12 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
 | **Week 8** | | | 
-| Tue <br> Oct 17 | Midterm Review | |    <!-- PAC, VC--> <!--**Midterm Review**-->
+| Tue <br> Oct 17 | [Midterm Review](assets/478-midterm-review.pdf) | |    <!-- PAC, VC--> <!--**Midterm Review**-->
 | Thu <br> Oct 19 | **Midterm Exam** | |
 | **Week 9** | **Unsupervised and less-supervised learning** | | 
 | Tue <br> Oct 24 | PCA, ICA | |        <!-- + Factor analysis-->
