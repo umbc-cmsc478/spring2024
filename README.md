@@ -104,19 +104,19 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 17 | [Midterm Review](assets/478-midterm-review.pdf) | |    <!-- PAC, VC--> <!--**Midterm Review**-->
 | Thu <br> Oct 19 | **Midterm Exam** | |
 | **Week 9** |  | | 
-| Tue <br> Oct 24 | K-Means, GMM | |        <!-- + Factor analysis-->
-| Thu <br> Oct 26 | Expectation Maximization, Neural Network | |
-| **Week 10** | **Unsupervised and less-supervised learning** | | 
-| Tue <br> Oct 31 | PCA, ICA | | |
-| Thu <br> Nov 02 | Weak supervised / Self-supervised learning | |
+| Tue <br> Oct 24 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
+| Thu <br> Oct 26 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+| **Week 10** |  | | 
+| Tue <br> Oct 31 |  | | |
+| Thu <br> Nov 02 | K-Means, GMM, Expectation Maximization | |
 | **Week 11** | **Reinforcement Learning** | | 
-| Tue <br> Nov 07 | Basic concepts in RL, value iteration, policy iteration | |   <!-- Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Nov 09 | Model-based RL, value function approximator | |
+| Tue <br> Nov 07 | PCA, ICA  | |   <!-- Monopoly, Guest Lecture on Monopoly-->
+| Thu <br> Nov 09 | Weak supervised / Self-supervised learning | |
 | **Week 12** |  | | 
-| Tue <br> Nov 14 |  | |
-| Thu <br> Nov 16 | Learning Theory | |
+| Tue <br> Nov 14 | Basic concepts in RL, value iteration, policy iteration | |
+| Thu <br> Nov 16 | Model-based RL, value function approximator | |
 | **Week 13** | | | |
-| Tue <br> Nov 21 | Ensemble Learning | |         <!-- Tom Mitchell Chap 8 -->
+| Tue <br> Nov 21 | Ensemble Learning, Learning Theory | |         <!-- Tom Mitchell Chap 8 -->
 | Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
 | **Week 14** | | | 
 | Tue <br> Nov 28 | Genetic / Evolutionary Learning, Applications of Evolutionary Learning | | <!-- Monir Sir Paper-->   <!-- or, Decision Trees/ Concept Learning-->
