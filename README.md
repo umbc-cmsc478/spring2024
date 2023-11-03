@@ -103,14 +103,14 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 8** | | | 
 | Tue <br> Oct 17 | [Midterm Review](assets/478-midterm-review.pdf) | |    <!-- PAC, VC--> <!--**Midterm Review**-->
 | Thu <br> Oct 19 | **Midterm Exam** | |
-| **Week 9** |  | | 
+| **Week 9** | Neural Networks | | 
 | Tue <br> Oct 24 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
 | Thu <br> Oct 26 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
-| **Week 10** | Neural networks | | 
-| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx),  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
+| **Week 10** | | | 
+| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
 | Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | |
-| **Week 11** |  | | 
-| Tue <br> Nov 07 | PCA, ICA  | |   <!-- GMM, Expectation Maximization, Monopoly, Guest Lecture on Monopoly-->
+| **Week 11** | Unsupervised Learning | | 
+| Tue <br> Nov 07 | K-Means, PCA, ICA  | |   <!-- GMM, Expectation Maximization, Monopoly, Guest Lecture on Monopoly-->
 | Thu <br> Nov 09 | Weak supervised / Self-supervised learning | |
 | **Week 12** |  | | 
 | Tue <br> Nov 14 | Basic concepts in RL, value iteration, policy iteration | |
