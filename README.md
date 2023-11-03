@@ -107,7 +107,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 24 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
 | Thu <br> Oct 26 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
 | **Week 10** | Neural networks | | 
-| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx),  | [AI Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
+| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx),  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
 | Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | |
 | **Week 11** |  | | 
 | Tue <br> Nov 07 | PCA, ICA  | |   <!-- GMM, Expectation Maximization, Monopoly, Guest Lecture on Monopoly-->
