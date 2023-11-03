@@ -74,7 +74,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > - CIML: Book by Hal Daume
 > - TM: Tom Mitchell
 > - SML: [Lecture Notes from Stanford ML](assets/Lecture-Notes-Stanford-ML.pdf)
-> - LN: [Lecture Notes, CMSC471 by KMA Solaiman](assets/Lecture_Notes_CMSC478_fall2023.pdf)
+> - LN: [Lecture Notes, CMSC478 by KMA Solaiman](assets/Lecture_Notes_CMSC478_fall2023.pdf)
 
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
