@@ -110,8 +110,8 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
 | Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | |
 | **Week 11** | Unsupervised Learning | | 
-| Tue <br> Nov 07 | K-Means, PCA, ICA  | |   <!-- GMM, Expectation Maximization, Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Nov 09 | Weak supervised / Self-supervised learning | |
+| Tue <br> Nov 07 | [K-Means](assets/478-K_means.pdf), KNN | |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
+| Thu <br> Nov 09 | No class | |
 | **Week 12** |  | | 
 | Tue <br> Nov 14 | Basic concepts in RL, value iteration, policy iteration | |
 | Thu <br> Nov 16 | Model-based RL, value function approximator | |
