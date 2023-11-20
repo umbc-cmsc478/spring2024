@@ -37,7 +37,7 @@ This should be a 3-4 page short report, and it serves as a check-point. It shoul
 5% for the plan of activities (in an appendix, please show the old one and the revised one, along with the planned activities of each group member) -->
 
 ### Project Presentation
-Your project presentation should roughly have the following format:
+**Each presentation would have a maximum time limit of 5 minutes.** Your project presentation should roughly have the following format:
 - Introduction/motivation
 - Problem definition
 - Proposed method
