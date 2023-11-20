@@ -110,11 +110,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
 | Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | |
 | **Week 11** | Unsupervised Learning | | 
-| Tue <br> Nov 07 | K-Means, PCA, ICA  | |   <!-- GMM, Expectation Maximization, Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Nov 09 | Weak supervised / Self-supervised learning | |
+| Tue <br> Nov 07 | [K-Means](assets/478-K_means.pdf), Self-study:[KNN](assets/478-KNN.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
+| Thu <br> Nov 09 | No class | |
 | **Week 12** |  | | 
-| Tue <br> Nov 14 | Basic concepts in RL, value iteration, policy iteration | |
-| Thu <br> Nov 16 | Model-based RL, value function approximator | |
+| Tue <br> Nov 14 | [PCA, ICA](assets/478-PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif), [Choosing K](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/Principal%2520Component%2520Analysis%2520Principal%2520Components.png) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
+| Thu <br> Nov 16 | Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator | |
 | **Week 13** | | | |
 | Tue <br> Nov 21 | Ensemble Learning, Learning Theory | |         <!-- Tom Mitchell Chap 8 -->
 | Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
