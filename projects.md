@@ -9,8 +9,8 @@ nav_exclude: false
 ## Course Project Information
 The course project is an opportunity for you to explore an interesting machine learning problem of your choice in the context of real-world data. Projects can be done by you as an individual, or in teams of two students. The instructor will consult with you on your ideas, but of course the final responsibility to define and execute an interesting piece of work is yours. Your project will be worth 20% of your final class grade, and will have 3 deliverables:
 - Proposal: 1 page (10%)
-- Final report: 5-8 pages (75%)
-- Project presentation: (15%)
+- Final report: 5-8 pages (60%)
+- Project presentation: (30%)
 
 See the course schedule for dates.
 Note that all write-ups must be in the form of an ICML paper (8 pages maximum in ICML format, including references). The page limit is strict! Write-ups over the limit will not be considered. Latex and Word templates for ICML format can be found [here](https://icml.cc/2012/files/icml2012stylefiles.zip).
@@ -36,7 +36,20 @@ This should be a 3-4 page short report, and it serves as a check-point. It shoul
 20% for the design of upcoming experiments
 5% for the plan of activities (in an appendix, please show the old one and the revised one, along with the planned activities of each group member) -->
 
+### Project Presentation
+Your project presentation should roughly have the following format:
+- Introduction/motivation
+- Problem definition
+- Proposed method
+<!-- - Intuition - why do you expect the proposed method to work? -->
+- Experiments - description of your testbed; Details of the experiments; observations
+<!-- list of questions your experiments are designed to answer -->
+- Conclusions
+- Upcoming experiments/works before final report submission, if any
+
 ### Final Report
+Note that all write-ups must be in the form of an ICML paper (8 pages maximum in ICML format, including references). The page limit is strict! Write-ups over the limit will not be considered. Latex and Word templates for ICML format can be found [here](https://icml.cc/2012/files/icml2012stylefiles.zip).
+
 Your final report is expected to be a 5-8 page report. It should roughly have the following format:
 - Introduction/motivation
 - Problem definition

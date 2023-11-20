@@ -129,6 +129,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Dec 14 | No Classes | | |
 | **Week 17** | | | 
 | Fri <br> Dec 15 | *Final Exam* | | |
+| Sun <br> Dec 17 | **Project Final Report Due** | | |
 
 
 <!-- ########## -->
