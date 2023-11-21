@@ -122,13 +122,14 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Nov 28 | Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator | | <!-- Monir Sir Paper-->   <!-- or, Decision Trees/ Concept Learning-->
 | Thu <br> Nov 30 | Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN | |          <!-- Tom Mitchell Chap 8 --> <!-- or, Decision Trees/ Concept Learning-->
 | **Week 15** | **Projects** | | 
-| Tue <br> Dec 05 | **Project Presentations** | |
-| Thu <br> Dec 07 | **Project Presentations** | |
+| Tue <br> Dec 05 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 1 and Sheet 3 |
+| Thu <br> Dec 07 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 2 and Sheet 4 |
 | **Week 16** | | | 
 | Tue <br> Dec 12 | **Final Exam Review** | |
 | Thu <br> Dec 14 | No Classes | | |
 | **Week 17** | | | 
 | Fri <br> Dec 15 | *Final Exam* | | |
+| Sun <br> Dec 17 | **Project Final Report Due** | | |
 
 
 <!-- ########## -->
