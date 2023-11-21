@@ -114,13 +114,13 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Nov 09 | No class | |
 | **Week 12** |  | | 
 | Tue <br> Nov 14 | [PCA, ICA](assets/478-PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif), [Choosing K](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/Principal%2520Component%2520Analysis%2520Principal%2520Components.png) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
-| Thu <br> Nov 16 | Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator | |
+| Thu <br> Nov 16 | PCA contd. | |
 | **Week 13** | | | |
 | Tue <br> Nov 21 | Ensemble Learning, Learning Theory | |         <!-- Tom Mitchell Chap 8 -->
 | Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
 | **Week 14** | | | 
-| Tue <br> Nov 28 | Genetic / Evolutionary Learning, Applications of Evolutionary Learning | | <!-- Monir Sir Paper-->   <!-- or, Decision Trees/ Concept Learning-->
-| Thu <br> Nov 30 | Instance-based Learning, KNN | |          <!-- Tom Mitchell Chap 8 --> <!-- or, Decision Trees/ Concept Learning-->
+| Tue <br> Nov 28 | Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator | | <!-- Monir Sir Paper-->   <!-- or, Decision Trees/ Concept Learning-->
+| Thu <br> Nov 30 | Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN | |          <!-- Tom Mitchell Chap 8 --> <!-- or, Decision Trees/ Concept Learning-->
 | **Week 15** | **Projects** | | 
 | Tue <br> Dec 05 | **Project Presentations** | |
 | Thu <br> Dec 07 | **Project Presentations** | |
