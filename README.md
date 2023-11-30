@@ -119,8 +119,8 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Nov 21 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) |         <!-- Tom Mitchell Chap 8 -->
 | Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
 | **Week 14** | | | 
-| Tue <br> Nov 28 | [Reinforcement Learning](assets/478-11-rl.pdf) | | <!--Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator-->   <!-- or, Decision Trees/ Concept Learning-->
-| Thu <br> Nov 30 | Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN | |          <!-- Tom Mitchell Chap 8 --> <!-- or, Decision Trees/ Concept Learning-->
+| Tue <br> Nov 28 | [Reinforcement Learning](assets/478-11-RL-v2.pdf) | | <!--Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator-->   <!-- or, Decision Trees/ Concept Learning-->
+| Thu <br> Nov 30 | RL: Value Iteration, Policy Iteration | |          <!-- Tom Mitchell Chap 8 --> <!-- Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN or, Decision Trees/ Concept Learning-->
 | **Week 15** | **Projects** | | 
 | Tue <br> Dec 05 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 1 and Sheet 3 |
 | Thu <br> Dec 07 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 2 and Sheet 4 |
