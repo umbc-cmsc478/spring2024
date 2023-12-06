@@ -107,7 +107,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Oct 24 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
 | Thu <br> Oct 26 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
 | **Week 10** | | | 
-| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1PAFe3Yv1e3rQAvQC-ZSrF-DF4hsxxr8Q)|
+| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
 | Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | |
 | **Week 11** | Unsupervised Learning | | 
 | Tue <br> Nov 07 | [K-Means](assets/478-K_means.pdf), Self-study:[KNN](assets/478-KNN.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
