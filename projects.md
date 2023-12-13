@@ -58,3 +58,4 @@ Your final report is expected to be a 5-8 page report. It should roughly have th
 - Experiments - description of your testbed; list of questions your experiments are designed to answer
 - Details of the experiments; observations
 - Conclusions
+- Clear description of contributions (in case of group project). In case of combined contribution, mention how it started as individual and transitioned into combined work.
