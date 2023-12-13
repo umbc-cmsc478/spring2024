@@ -125,7 +125,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Dec 05 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 1 and Sheet 3 | [Quiz](assets/Quiz.pdf)
 | Thu <br> Dec 07 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 2 and Sheet 4 |
 | **Week 16** | | | 
-| Tue <br> Dec 12 | **Final Exam Review** | |
+| Tue <br> Dec 12 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99aca85f-b6d2-4028-8241-b0d7000252f0)
 | Thu <br> Dec 14 | No Classes | | |
 | **Week 17** | | | 
 | Sun <br> Dec 17 | **Project Final Report Due** | | |
