@@ -11,3 +11,4 @@ _site/index.html
 _site/projects/index.html
 _site/assets/js/search-data.json
 _staffers/.DS_Store
+old_assets/*

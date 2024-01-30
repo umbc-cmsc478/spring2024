@@ -39,7 +39,7 @@ seo:
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
 - Exam and assignment submissions: Blackboard and [Gradescope](https://www.gradescope.com/courses/725586).
 - Office hours
-  - `TBD, or by appointment`,  ITE 201-C, KMA Solaiman 
+  - `Wed 5:45 - 6:30 pm, Thu 3 - 3:45 pm, or by appointment`,  ITE 201-C, KMA Solaiman 
   - `TBD, or by appointment`, ITE 334, TBD
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/p/GFDDC32F1/) and [Gradescope](https://www.gradescope.com/courses/725586).
@@ -81,7 +81,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
 | **Week 1** | | | 
-| Tue <br> Jan 30 | [Course Overview. Administrivia and What is ML?](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
+| Tue <br> Jan 30 | Course Overview and Administrivia. What is ML? <br>[Slides](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)| [TOS Chapter 1](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/Chapter%201%20-%20Introduction.html)
 |  | **Supervised Learning** | | 
 | Thu <br> Feb 01 | Supervised learning setup, LMS | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
 | **Week 2** | | | 
