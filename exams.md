@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exams
-nav_exclude: false
+nav_exclude: true
 # permalink: /:path/
 ---
 

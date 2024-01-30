@@ -32,14 +32,14 @@ seo:
 - Teaching assistant: TBD
 <!-- Surya Kiran Challagulla, <mailto:ru17699@umbc.edu> -->
 <!-- - Grader: -->
-- Lecture time: **TTh 1:00-2:15pm** *(01)*, **TTh 4:00-5:15pm** *(02)*
+- Lecture time: **TTh 1:00-2:15pm** *(02)*, **TTh 4:00-5:15pm** *(04)*
 - Location: `SONDHEIM 111` (02), `ITE 229` (04)
 - Credit Hours: 3.00
 - Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/GFDDC32F1/)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
 - Exam and assignment submissions: Blackboard and [Gradescope](https://www.gradescope.com/courses/725586).
 - Office hours
-  - `Thu 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
+  - `TBD, or by appointment`,  ITE 201-C, KMA Solaiman 
   - `TBD, or by appointment`, ITE 334, TBD
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/p/GFDDC32F1/) and [Gradescope](https://www.gradescope.com/courses/725586).
@@ -76,67 +76,67 @@ This is an upper-level undergraduate level Computer Science course and we will a
 > - TM: Tom Mitchell
 > - SML: [Lecture Notes from Stanford ML](assets/Lecture-Notes-Stanford-ML.pdf)
 > - LN: [Lecture Notes, CMSC478 by KMA Solaiman](assets/Lecture_Notes_CMSC478_fall2023.pdf)
+> - TOS: Book by Tim Oates 
 
 | Date      | Topics      | Notes | Readings |
 | :---------| :-----------| :------  | :------ | 
 | **Week 1** | | | 
-| Thu <br> Aug 31 | [Course Overview. Administrivia and What is ML?](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
-| **Week 2** | **Supervised Learning** | | 
-| Tue <br> Sep 05 | [Supervised learning setup, LMS](assets/478-02-Regression.pdf) | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
-| Thu <br> Sep 07 | [Weighted Least Squares, *Perceptron,* Logistic regression, Newton's Method](assets/478-03-Classification-LR-updated.pdf) | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
+| Tue <br> Jan 30 | [Course Overview. Administrivia and What is ML?](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)
+|  | **Supervised Learning** | | 
+| Thu <br> Feb 01 | Supervised learning setup, LMS | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
+| **Week 2** | | | 
+| Tue <br> Feb 06 | Weighted Least Squares, *Perceptron*, Logistic regression | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
+| Thu <br> Feb 08 | Multi-class classification | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4, [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
 | **Week 3** | | | 
-| Tue <br> Sep 12 | [Multi-class classification](assets/478-04-Multiclass-Classification.pdf) | | [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
+| Tue <br> Feb 13 | Decision Tree Learning | | 
 |            | **Generative Learning Models** | | 
-| Thu <br> Sep 14 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) | **HW1 is out on BB** and due on 09/25| [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
+| Thu <br> Feb 15 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) || [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
 | **Week 4** | | | 
-| Tue <br> Sep 19 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
-| Thu <br> Sep 21 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
+| Tue <br> Feb 20 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
+| Thu <br> Feb 22 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** |  | | 
-| Tue <br> Sep 26 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
+| Tue <br> Feb 27 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
 |            | **Generalization and Regularization** | | 
-| Thu <br> Sep 28 | Bias - Variance Tradeoff | | SML Chapter 8.1
+| Thu <br> Feb 29 | Bias - Variance Tradeoff | | SML Chapter 8.1
 | **Week 6** | | | 
-| Tue <br> Oct 03 | Proposal Overview.  | |   <!--CIML Chap 5-->
-| Thu <br> Oct 05 | Regularization. Feature / Model selection. Evaluation Metrics. | **Project Proposal Due on Oct 7** | SML Chapter 9.1, 9.3 <!--CIML Chap 8-->
+| Tue <br> Mar 05 | Regularization. Feature / Model selection.  | |   <!--CIML Chap 5-->
+| Thu <br> Mar 07 | Methodology. Evaluation Metrics. |  | SML Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** |  | | 
-| Tue <br> Oct 10 | Kernels  |  | SML Chapter 5
-| Thu <br> Oct 12 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
+| Tue <br> Mar 12 | Kernels  |  | SML Chapter 5
+| Thu <br> Mar 14 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
 | **Week 8** | | | 
-| Tue <br> Oct 17 | [Midterm Review](assets/478-midterm-review.pdf) | |    <!-- PAC, VC--> <!--**Midterm Review**-->
-| Thu <br> Oct 19 | **Midterm Exam** | |
-| **Week 9** | Neural Networks | | 
-| Tue <br> Oct 24 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
-| Thu <br> Oct 26 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+|  | **Spring Break** | | 
+| **Week 9** |  | | 
+| Tue <br> Mar 26 | Midterm Review | |        <!-- + Factor analysis-->
+| Thu <br> Mar 28 | **Midterm Exam** | | 
 | **Week 10** | | | 
-| Tue <br> Oct 31 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
-| Thu <br> Nov 02 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
-| **Week 11** | Unsupervised Learning | | 
-| Tue <br> Nov 07 | [K-Means](assets/478-K_means.pdf), Self-study:[KNN](assets/478-KNN.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Nov 09 | No class | |
+| Tue <br> Apr 02 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
+| Thu <br> Apr 04 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+| **Week 11** |  | | 
+| Tue <br> Apr 09 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
+| Thu <br> Apr 11 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 12** |  | | 
-| Tue <br> Nov 14 | [PCA, ICA](assets/478-PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif), [Choosing K](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/Principal%2520Component%2520Analysis%2520Principal%2520Components.png) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
-| Thu <br> Nov 16 | PCA contd. | |
+| Tue <br> Apr 16 | [K-Means](assets/478-K_means.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
+| Thu <br> Apr 18 | [PCA, ICA](assets/478-PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif), [Choosing K](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/Principal%2520Component%2520Analysis%2520Principal%2520Components.png) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
 | **Week 13** | | | |
-| Tue <br> Nov 21 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | [TM Chapter 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2018/mitchell-DT.pdf), [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
-| Thu <br> Nov 23 | Thanksgiving Day <br> No Classes | |
+| Tue <br> Apr 23 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | [TM Chapter 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2018/mitchell-DT.pdf), [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
+| Thu <br> Apr 25 | [KNN](assets/478-KNN.pdf) | |
 | **Week 14** | | | 
-| Tue <br> Nov 28 | [Reinforcement Learning](assets/RL/478-11-rl-v4.pdf) | [Q-Learning Example](assets/RL/478-Q-Learning%20Examples.pdf) | <!--Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator-->   <!-- or, Decision Trees/ Concept Learning-->
-| Thu <br> Nov 30 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf)       <!-- Tom Mitchell Chap 8 --> <!-- Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN or, Decision Trees/ Concept Learning-->
-| **Week 15** | **Projects** | | 
-| Tue <br> Dec 05 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 1 and Sheet 3 | [Quiz](assets/Quiz.pdf)
-| Thu <br> Dec 07 | **Project Presentations** | [Project Presentation Schedule](https://docs.google.com/spreadsheets/d/1ZAdiyA4HxF7RT8JZzrLqhC8UNW8daW5eibXawvzK8gw/edit?usp=sharing): Sheet 2 and Sheet 4 |
+| Tue <br> Apr 30 | [Reinforcement Learning](assets/RL/478-11-rl-v4.pdf) | [Q-Learning Example](assets/RL/478-Q-Learning%20Examples.pdf) | <!--Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator-->   <!-- or, Decision Trees/ Concept Learning-->
+| Thu <br> May 02 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf)       <!-- Tom Mitchell Chap 8 --> <!-- Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN or, Decision Trees/ Concept Learning-->
+| **Week 15** |  | | 
+| Tue <br> May 07 | Graphical models |  | 
+| Thu <br> May 09 | Expectation maximization |  |
 | **Week 16** | | | 
-| Tue <br> Dec 12 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99aca85f-b6d2-4028-8241-b0d7000252f0)
-| Thu <br> Dec 14 | No Classes | | |
+| Tue <br> May 14 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99aca85f-b6d2-4028-8241-b0d7000252f0)
 | **Week 17** | | | 
-| Sun <br> Dec 17 | **Project Final Report Due** | | |
-| Wed <br> Dec 20 | **Final Exam** | | |
+|  | **Final Exam** | | |
 
 
 <!-- ########## -->
 
-## Assignments
-TBA
+<!-- ## Assignments
+TBA -->
 
 ## Midterm and Final Exams
 The material covered by the exams will be drawn from assigned readings in the text, from lectures, and from the homework. Material from the readings that is not covered in class is fair game, so you are advised to keep up with the readings.
@@ -145,10 +145,10 @@ The material covered by the exams will be drawn from assigned readings in the te
 <!-- Tim Finin -->
 <!-- We have a repository of Jupyter notebooks intended to run in Colab and python code (e.g., the AIMA code) that are examples we'll use in class and that you can use to understand concepts. You should clone this on your computer or in your account on gl.umbc.edu. The 671 resources page has some information on using git and jupyter notebooks -->
 
-## Projects
+<!-- ## Projects
 The project is meant to give students deeper exposure to some topic in machine learning than they would get from the lectures, readings, and discussions alone. Those projects that are most successful often blend the student's own research with machine learning, e.g. by applying machine learning techniques to a problem in some other area, or by bringing an insight from some other area to a problem in machine learning. However, projects need not involve ties with ongoing research. Many good projects in the past have investigated the application of existing algorithms to a domain/dataset of interest to the student, such as Texas Hold'em, the stock market, sporting events, and so on. Students can come up with their own project ideas or they can come see me and we'll brainstorm project ideas. 
 
-Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](https://umbc-cmsc478.github.io/fall2023-public/projects/).
+Projects may be done by individuals or teams of two people. However, teams of two will be expected to do significantly more work than what is expected of an individual project. More information on projects can be found [here](https://umbc-cmsc478.github.io/fall2023-public/projects/). -->
 
 ## Course Evaluation
 
@@ -157,9 +157,10 @@ Grades will be based on your performance in homework assignments, project, a mid
 
 |Component| %|
 | :------------------ | :---: | 
-|Homework/Programming Assignments |50%|
+|Homework/Programming Assignments |10% each, 70%|
 |Exams |15% each, 30%|
-|Project |20%|
+
+<!-- |Project |20%| -->
 
 “Course engagement” consists of, e.g., asking questions, participating in discussions (in class or
 online), responding to surveys or checkpointing questions, etc.). “Course engagement” could count in your favor in borderline cases.
