@@ -11,7 +11,7 @@ seo:
 <img src="assets/images/UMBC-primary-logo-RGB.png" alt="drawing" width="450"/>
 
 # CMSC 478 — Introduction to Machine Learning 
-# Fall 2023
+# Spring 2024
 {: .no_toc }
 
 <!-- # About -->
@@ -29,20 +29,21 @@ seo:
 ## Logistics 
 
 - Instructor: KMA Solaiman, <mailto:ksolaima@umbc.edu>
-- Teaching assistant: Surya Kiran Challagulla, <mailto:ru17699@umbc.edu>
+- Teaching assistant: TBD
+<!-- Surya Kiran Challagulla, <mailto:ru17699@umbc.edu> -->
 <!-- - Grader: -->
-- Lecture time: **TTh 2:30-3:45pm** *(01)*, **TTh 5:30-6:45pm** *(02)*
-- Location: `SONDHEIM 203` (01), `SONDHEIM 105` (02)
+- Lecture time: **TTh 1:00-2:15pm** *(01)*, **TTh 4:00-5:15pm** *(02)*
+- Location: `SONDHEIM 111` (02), `ITE 229` (04)
 - Credit Hours: 3.00
-- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/G5403DC1B/feed)
+- Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/GFDDC32F1/)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
-- Exam and assignment submissions: [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76188_1&cmp_tab_id=_330931_1&editMode=true&mode=cpview#)
+- Exam and assignment submissions: Blackboard and [Gradescope](https://www.gradescope.com/courses/725586).
 - Office hours
   - `Thu 1-2pm, or by appointment` *(more if needed)*,  ITE 201-C, KMA Solaiman 
-  - `Thu 3-5pm, or by appointment`, ITE 334, Surya Kiran Challagulla
+  - `TBD, or by appointment`, ITE 334, TBD
 
-> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/c/G5403DC1B/feed).
-<!-- and [Gradescope](https://www.gradescope.com/courses/417566). -->
+> **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/p/GFDDC32F1/) and [Gradescope](https://www.gradescope.com/courses/725586).
+<!-- c: 9405, 4GE4DE -->
 
 ## Course Description
 
