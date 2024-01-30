@@ -32,8 +32,8 @@ seo:
 - Teaching assistant: TBD
 <!-- Surya Kiran Challagulla, <mailto:ru17699@umbc.edu> -->
 <!-- - Grader: -->
-- Lecture time: **TTh 1:00-2:15pm** *(02)*, **TTh 4:00-5:15pm** *(04)*
-- Location: `SONDHEIM 111` (02), `ITE 229` (04)
+- Lecture time: **TTh 1:00-2:15pm** *(04)*, **TTh 4:00-5:15pm** *(02)*
+- Location: `ITE 229` (04), `SONDHEIM 111` (02)
 - Credit Hours: 3.00
 - Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/GFDDC32F1/)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
@@ -162,8 +162,8 @@ Grades will be based on your performance in homework assignments, project, a mid
 
 <!-- |Project |20%| -->
 
-“Course engagement” consists of, e.g., asking questions, participating in discussions (in class or
-online), responding to surveys or checkpointing questions, etc.). “Course engagement” could count in your favor in borderline cases.
+<!-- “Course engagement” consists of, e.g., asking questions, participating in discussions (in class or
+online), responding to surveys or checkpointing questions, etc.). “Course engagement” could count in your favor in borderline cases. -->
 <!-- |Course Engagement |5%| -->
 
 As per University policy, incompletes will be granted only under extraordinary circumstances; students who are enrolled after the last day to drop a class should be prepared to receive a grade of A-F.
@@ -256,7 +256,7 @@ you use does not actually implement what you are directed to implement.
 Use of AI/automatic tools for grammatical assistance (such as spell-checkers or Grammarly) or small-scale predictive text (e.g., next word prediction, tab completion) is okay. Provided the use of these tools does not change the substance of your work, use of these tools may be, but is not required to be, disclosed.
 
 **Be sure to properly acknowledge whatever external help—be it from students, third party libraries, or other readings—you receive in the beginning of each assignment.** Please review this overview of [how to correctly cite
-a source](http://www.lib.duke.edu/libguide/bib_journals.htm) and these guidelines on [acceptable paraphrasing](http://www.indiana.edu/~wts/wts/plagiarism.html).
+a source](https://owl.purdue.edu/owl/research_and_citation/apa6_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) and these guidelines on [acceptable paraphrasing](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing) or [here](https://libguides.lib.miamioh.edu/c.php?g=22165&p=3357957#:~:text=Acceptable%20paraphrasing%20expresses%20an%20idea,sentence%20is%20considered%20unacceptable%20paraphrasing).
 
 <!-- Written answers on essay questions for homeworks and papers must be your
 own work. If you wish to quote a source, you must do so explicitly,
