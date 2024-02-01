@@ -83,9 +83,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 1** | | | 
 | Tue <br> Jan 30 | Course Overview and Administrivia. What is ML? <br>[Slides](assets/478-01-Intro.pdf) | <!--DT from Mitchell or CIML-->1. [YOLO Object Detection](https://www.youtube.com/watch?v=fiqPswSMwio) <br> 2. [10 years of training in 10 days for learning to be a warrior](https://www.youtube.com/watch?v=1kV-rZZw50Q)| [TOS Chapter 1](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/Chapter%201%20-%20Introduction.html)
 |  | **Supervised Learning** | | 
-| Thu <br> Feb 01 | Supervised learning setup, LMS | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
+| Thu <br> Feb 01 | Supervised learning setup, LMS | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
 | **Week 2** | | | 
-| Tue <br> Feb 06 | Weighted Least Squares, *Perceptron*, Logistic regression | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf) <!--Stanford if otherwise not mentioned-->
+| Tue <br> Feb 06 | Weighted Least Squares, *Perceptron*, Logistic regression | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
 | Thu <br> Feb 08 | Multi-class classification | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4, [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
 | **Week 3** | | | 
 | Tue <br> Feb 13 | Decision Tree Learning | | 
