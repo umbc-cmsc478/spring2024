@@ -86,7 +86,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Feb 01 | Supervised learning setup, LMS, Gradient Descent <br>[Slides](assets/478-02-GD.pdf) | | [SML Part 1, Chap 1, 1.1](assets/Lecture-Notes-Stanford-ML.pdf); <br> Optional: [TOS Chapter 2](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/Chapter%202%20-%20Perceptrons.html)<!--Stanford if otherwise not mentioned-->
 | **Week 2** | | | 
 | Tue <br> Feb 06 | SGD, *Perceptron*, Logistic regression <br>[Slides](assets/478-03-Classification-LR.pdf) | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4
-| Thu <br> Feb 08 | Multi-class classification | | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4, [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
+| Thu <br> Feb 08 | Multi-class classification | **[Homework01](https://umbc-cmsc478.github.io/spring2024/assets/assignments/Homework%201/)** | [SML Chap 1.3, Chap 2](assets/Lecture-Notes-Stanford-ML.pdf), See more: Chap 1.4, [SML Chap 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
 | **Week 3** | | | 
 | Tue <br> Feb 13 | Decision Tree Learning | | 
 |            | **Generative Learning Models** | | 
