@@ -29,18 +29,19 @@ seo:
 ## Logistics 
 
 - Instructor: KMA Solaiman, <mailto:ksolaima@umbc.edu>
-- Teaching assistant: TBD
+- Teaching assistant: Rama Sai Mamidala, <mailto:ramasam1@umbc.edu>
 <!-- Surya Kiran Challagulla, <mailto:ru17699@umbc.edu> -->
 <!-- - Grader: -->
 - Lecture time: **TTh 1:00-2:15pm** *(04)*, **TTh 4:00-5:15pm** *(02)*
-- Location: `ITE 229` (04), `SONDHEIM 111` (02)
+- Location: `ITE 240` (04), `SONDHEIM 111` (02)
 - Credit Hours: 3.00
 - Q&A, Course discussion and announcements: [Campuswire](https://campuswire.com/c/GFDDC32F1/)
 - For any sensitive issue, please email me (<mailto:ksolaima@umbc.edu>), preferrably with a subject preceded by `CMSC478-concern`.
 - Exam and assignment submissions: Blackboard and [Gradescope](https://www.gradescope.com/courses/725586).
 - Office hours
   - `Wed 5:45 - 6:30 pm, Thu 3 - 3:45 pm, or by appointment`,  ITE 201-C, KMA Solaiman 
-  - `TBD, or by appointment`, ITE 334, TBD
+  - `TW 2:30 - 3:30 pm`, ITE 334, Rama Sai Mamidala
+
 
 > **Note:** Visit [Blackboard](https://blackboard.umbc.edu/webapps/blackboard/execute/modulepage/view?course_id=_76191_1&cmp_tab_id=_330934_1&editMode=true&mode=cpview#) for instructions on joining [Campuswire](https://campuswire.com/p/GFDDC32F1/) and [Gradescope](https://www.gradescope.com/courses/725586).
 <!-- c: 9405, 4GE4DE -->
@@ -88,7 +89,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Feb 06 | SGD, *Perceptron*, Logistic regression <br>[Slides](assets/478-03-Classification-LR.pdf) | **[Homework01](https://umbc-cmsc478.github.io/spring2024/assets/assignments/Homework%201/)** | [SML 1.1](assets/Lecture-Notes-Stanford-ML.pdf); [TOS Chapter 2](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/Chapter%202%20-%20Perceptrons.html)
 | Thu <br> Feb 08 |  Logistic regression, Multi-class classification <br>[Slides.v2](assets/478-04-LR.v2.pdf) // [Annotated-Slides](assets/478-04-LR.v2-annotated.pdf)  | | [SML 2.1 - 2.3](assets/Lecture-Notes-Stanford-ML.pdf)
 | **Week 3** | | | 
-| Tue <br> Feb 13 | Decision Tree Learning <br> [Slides](assets/mitchell-DT-slides.pdf) | **Homework01 is due** | 
+| Tue <br> Feb 13 | Decision Tree Learning <br> [Slides](assets/mitchell-DT-slides.pdf) | **Homework01 is due** | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf)
 |            | **Generative Learning Models** | | 
 | Thu <br> Feb 15 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) || [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
 | **Week 4** | | | 
