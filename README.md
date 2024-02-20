@@ -95,7 +95,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 4** | | | 
 | Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. | **[Homework 2](assets/assignments/Homework%202.ipynb)**|
 | Thu <br> Feb 22 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
-| **Week 5** | **Generative Learning Models** | | 
+| **Week 5** | **Generative Learning Models** | **Homework 2 is due on Feb 26** | 
 | Tue <br> Feb 27 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
 |            |  | | 
 | Thu <br> Feb 29 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) || [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
