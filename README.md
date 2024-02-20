@@ -93,7 +93,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 |            | **Generalization and Regularization** | | 
 | Thu <br> Feb 15 | Decision Tree // [Annotated-Slides](assets/annotated-DT-02.15.pdf) <br> Overfitting, Validation, Bias // [Class-Notes](assets/Notes-02.15.pdf)  | | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf), SML Chapter 8.1
 | **Week 4** | | | 
-| Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. ||
+| Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. | **[Homework 2](assets/assignments/Homework%202.ipynb)**|
 | Thu <br> Feb 22 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** | **Generative Learning Models** | | 
 | Tue <br> Feb 27 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
