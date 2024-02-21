@@ -91,9 +91,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 3** | | | 
 | Tue <br> Feb 13 | Decision Tree Learning <br> [Slides.v2](assets/mitchell-DT-slides.v2.pdf) // [Notes](assets/notes-02.13.pdf) // [Annotations](assets/annotated-02.13.pdf) | **Homework01 is due** | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf)
 |            | **Generalization and Regularization** | | 
-| Thu <br> Feb 15 | Decision Tree // [Annotated-Slides](assets/annotated-DT-02.15.pdf) <br> Overfitting, Validation, Bias // [Class-Notes](assets/Notes-02.15.pdf)  | | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf), SML Chapter 8.1
+| Thu <br> Feb 15 | Decision Tree // [Annotated-Slides](assets/annotated-DT-02.15.pdf) <br> Overfitting, Validation, Bias // [Class-Notes](assets/Notes-02.15.pdf)  | | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf)
 | **Week 4** | | | 
-| Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. | **[Homework 2](assets/assignments/Homework%202.ipynb)**|
+| Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. <br>[Class-Notes](assets/bias-variance-notes-02.20.pdf) | **[Homework 2](assets/assignments/Homework%202.ipynb)** <br> Optional: Mathematical derivation of test loss - [Slides](assets/478-bv-01.pdf) | [SML](assets/Lecture-Notes-Stanford-ML.pdf) 8.1, 9.1, 9.3
 | Thu <br> Feb 22 | [Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
 | **Week 5** | **Generative Learning Models** | **Homework 2 is due on Feb 26** | 
 | Tue <br> Feb 27 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
@@ -101,7 +101,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Feb 29 | [*Density estimation.* Bayes Rule. MLE vs MAP](assets/478-05-Bayes-MLE-MAP-v2.pdf) || [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf) <!-- *Density estimation.* Gaussian discriminant analysis. Naive Bayes.  --><!-- Laplace Smoothing. -->
 | **Week 6** | | | 
 | Tue <br> Mar 05 |  [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
-| Thu <br> Mar 07 | Methodology. Evaluation Metrics. |  | SML Chapter 9.1, 9.3 <!--CIML Chap 8-->
+| Thu <br> Mar 07 | Methodology. Evaluation Metrics. |  | [SML](assets/Lecture-Notes-Stanford-ML.pdf) Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** |  | | 
 | Tue <br> Mar 12 | Kernels  |  | SML Chapter 5
 | Thu <br> Mar 14 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
