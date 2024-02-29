@@ -94,9 +94,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Feb 15 | Decision Tree // [Annotated-Slides](assets/annotated-DT-02.15.pdf) <br> Overfitting, Validation, Bias // [Class-Notes](assets/Notes-02.15.pdf)  | | [TM 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2023/mitchell-DT.pdf)
 | **Week 4** | | | 
 | Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. <br>[Class-Notes](assets/bias-variance-notes-02.20.pdf) | **[Homework 2](assets/assignments/Homework%202.ipynb)** <br> Optional: Mathematical derivation of test loss - [Slides](assets/478-bv-01.pdf) | [SML](assets/Lecture-Notes-Stanford-ML.pdf) 8.1, 9.1, 9.3
-| Thu <br> Feb 22 |  [K-Means](assets/478-K_means.pdf) || CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!--[Naive Bayes, Gaussian Naive Bayes](assets/478-07-NB-GNB.pdf) | [Continuous Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-cont.png), [Discrete Distributions](http://matthias.vallentin.net/blog/2010/10/probability-and-statistics-cheat-sheet/dist-disc.png)| <!--  **Kernel Methods** Kernels, SVM -->
-| **Week 5** | **Generative Learning Models** | **Homework 2 is due on Feb 26** | 
-| Tue <br> Feb 27 | | | 
+| Thu <br> Feb 22 |  [K-Means](assets/478-K_means.pdf) || CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) 
+| **Week 5** | | **Homework 2 is due on Feb 26** | 
+| Tue <br> Feb 27 | [Gaussian Naive Bayes, Laplace Smoothing](assets/478-08.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf), SML Chapter 4, [LN Section 1](assets/Lecture_Notes_CMSC471_fall2023.pdf)
 |            |  | | 
 | Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) || 
 | **Week 6** | | | 
