@@ -98,10 +98,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 5** | | **Homework 2 is due on Feb 26** | 
 | Tue <br> Feb 27 |  | | 
 |            |  | | 
-| Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) || 
+| Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) | **[Homework 3](assets/assignments/478_hw3.pdf)** | 
 | **Week 6** | | | 
 | Tue <br> Mar 05 |  [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
-| Thu <br> Mar 07 | Methodology. Evaluation Metrics. |  | [SML](assets/Lecture-Notes-Stanford-ML.pdf) Chapter 9.1, 9.3 <!--CIML Chap 8-->
+| Thu <br> Mar 07 | Methodology. Evaluation Metrics. | **Homework 3 is due** | [SML](assets/Lecture-Notes-Stanford-ML.pdf) Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** |  | | 
 | Tue <br> Mar 12 | Kernels  |  | SML Chapter 5
 | Thu <br> Mar 14 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
