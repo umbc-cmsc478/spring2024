@@ -100,7 +100,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 |            |  | | 
 | Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) | **[Homework 3](assets/assignments/478_hw3.pdf)** | 
 | **Week 6** | | | 
-| Tue <br> Mar 05 |  [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
+| Tue <br> Mar 05 |  PCA, ICA <br>[Slides](assets/PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
 | Thu <br> Mar 07 | Methodology. Evaluation Metrics. | **Homework 3 is due** | [SML](assets/Lecture-Notes-Stanford-ML.pdf) Chapter 9.1, 9.3 <!--CIML Chap 8-->
 | **Week 7** |  | | 
 | Tue <br> Mar 12 | Kernels  |  | SML Chapter 5
@@ -118,7 +118,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Apr 11 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 12** |  | | 
 | Tue <br> Apr 16 | [K-Means](assets/478-K_means.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Apr 18 | [PCA, ICA](assets/478-PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif), [Choosing K](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/Principal%2520Component%2520Analysis%2520Principal%2520Components.png) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
+| Thu <br> Apr 18 | [Naive Bayes, *Conditional Models.*](assets/478-06-NBayes.pdf) | | [Mitchell-Notes Chapter 3](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) 
 | **Week 13** | | | |
 | Tue <br> Apr 23 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | [TM Chapter 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2018/mitchell-DT.pdf), [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
 | Thu <br> Apr 25 | [KNN](assets/478-KNN.pdf) | |
