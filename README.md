@@ -101,7 +101,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) | **[Homework 3](assets/assignments/478_hw3.pdf)** | 
 | **Week 6** | | | 
 | Tue <br> Mar 05 |  PCA, ICA <br>[Slides](assets/PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
-| Thu <br> Mar 07 | Methodology. Evaluation Metrics. | **Homework 3 is due** | [SML](assets/Lecture-Notes-Stanford-ML.pdf) Chapter 9.1, 9.3 <!--CIML Chap 8-->
+| Thu <br> Mar 07 | *Density estimation.* Bayes Rule. MLE vs MAP <br>[Slides](assets/478-11-Bayes-MLE-MAP.pdf) | **Homework 3 is due** | [Estimating Probabilities](http://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf)
 | **Week 7** |  | | 
 | Tue <br> Mar 12 | Kernels  |  | SML Chapter 5
 | Thu <br> Mar 14 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) <!-- K-Means. GMM (non EM & EM). Expectation Maximization. --> <!-- Neural Network -->
