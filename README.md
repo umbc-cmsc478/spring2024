@@ -111,17 +111,17 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Mar 26 | Midterm Review | |        <!-- + Factor analysis-->
 | Thu <br> Mar 28 | **Midterm Exam** | | 
 | **Week 10** | | | 
-| Tue <br> Apr 02 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
-| Thu <br> Apr 04 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+| Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
+| Thu <br> Apr 04 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) 
 | **Week 11** |  | | 
-| Tue <br> Apr 09 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
-| Thu <br> Apr 11 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
+| Tue <br> Apr 09 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
+| Thu <br> Apr 11 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
 | **Week 12** |  | | 
-| Tue <br> Apr 16 | [K-Means](assets/478-K_means.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7552907c-99a6-477d-a99b-b0b30166ac41) |  CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) <!-- GMM, Expectation Maximization, , PCA, ICA, Weak supervised / Self-supervised learning, Monopoly, Guest Lecture on Monopoly-->
-| Thu <br> Apr 18 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) 
+| Tue <br> Apr 16 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
+| Thu <br> Apr 18 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 13** | | | |
 | Tue <br> Apr 23 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | [TM Chapter 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2018/mitchell-DT.pdf), [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
-| Thu <br> Apr 25 | [KNN](assets/478-KNN.pdf) | |
+| Thu <br> Apr 25 | | |
 | **Week 14** | | | 
 | Tue <br> Apr 30 | [Reinforcement Learning](assets/RL/478-11-rl-v4.pdf) | [Q-Learning Example](assets/RL/478-Q-Learning%20Examples.pdf) | <!--Basic concepts in RL, value iteration, policy iteration, Model-based RL, value function approximator-->   <!-- or, Decision Trees/ Concept Learning-->
 | Thu <br> May 02 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf)       <!-- Tom Mitchell Chap 8 --> <!-- Genetic / Evolutionary Learning, Applications of Evolutionary Learning, Instance-based Learning, KNN or, Decision Trees/ Concept Learning-->
