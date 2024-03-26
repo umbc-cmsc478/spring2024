@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exams
-nav_exclude: true
+nav_exclude: false
 # permalink: /:path/
 ---
 
@@ -28,7 +28,7 @@ Listed below are the minimum things you should be prepared to do. This is not an
 - how do you calculate conditional probabilities from joint probabilities?
 
 
-### Kernel
+<!-- ### Kernel
     Stanford lecture notes (SML) 5.1, 5.2, 5.4 (page 53, 54, 55)
 
 - Focus on What kinds of functions K(·, ·) can correspond to some feature map φ?
@@ -36,7 +36,7 @@ Listed below are the minimum things you should be prepared to do. This is not an
 - How to calculate the weight-parameters (w/theta) given the decision function? You will find examples in the sample exams
 
 ### SVM
-- Impact of offset, impact of C and slack variable (slides show examples)
+- Impact of offset, impact of C and slack variable (slides show examples) -->
 
 ### Bias - variance, and Cross-validation
 - How is model complexity connected to bias, variance, and test error?
@@ -48,12 +48,9 @@ Listed below are the minimum things you should be prepared to do. This is not an
 - what is their loss (how do you train multiclass)? 
 
 ## <span style="color:blue">Sample Questions </span>
-I am providing some sample exams. Please be reminded that not all the topics in the questions have been convered in our classes. **I have crossed them out.** But if you still see a question with unfamiliar topic, do not focus on that. Some topics such as bias-variance may have similar questions, but with classifiers/models we have covered. Some old midterms from CMU 10-701 course:
+I am providing a sample exam. Please be reminded that not all the topics in the questions have been convered in our classes. You can ignore them.
 
-- [2006-with-Solution](/assets/sample-midterms/midterm2006-solution.pdf)
-- [2008-Spring-with-Solution](/assets/sample-midterms/midterm2008s-solution.pdf)
-- [2009-Fall-with-Solution](/assets/sample-midterms/midterm2009f_sol.pdf)
-- [2010-Fall-with-Solution](/assets/sample-midterms/midterm2010f_sol.pdf)
+- [sample-question](assets/exams/sample-midterm.pdf)
 
 
 
