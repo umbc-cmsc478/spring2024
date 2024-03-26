@@ -108,7 +108,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 8** | | | 
 |  | **Spring Break** | | 
 | **Week 9** |  | | 
-| Tue <br> Mar 26 | Midterm Review | |        <!-- + Factor analysis-->
+| Tue <br> Mar 26 | Midterm Review <br> [Slides](assets/midterm-review.pdf)//Bias - Variance Tradeoff, Regularization [Notes-1](assets/Notes-02.15.pdf), [Notes-2](assets/bias-variance-notes-02.20.pdf)  | |     
 | Thu <br> Mar 28 | **Midterm Exam** | | 
 | **Week 10** | | | 
 | Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
