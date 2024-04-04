@@ -111,7 +111,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Mar 26 | Midterm Review <br> [Slides](assets/midterm-review.pdf)//Bias - Variance Tradeoff, Regularization [Notes-1](assets/Notes-02.15.pdf), [Notes-2](assets/bias-variance-notes-02.20.pdf)  | |     
 | Thu <br> Mar 28 | **Midterm Exam** | | 
 | **Week 10** | | | 
-| Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
+| Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf) | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf), [Monte Carlo Tree Search](https://youtu.be/UXW2yZndl7U?si=U1i1JOAW7orQif8k) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
 | Thu <br> Apr 04 | [Support Vector Machine](assets/478-12-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/) 
 | **Week 11** |  | | 
 | Tue <br> Apr 09 | [Kernel SVM](assets/478-13.pdf), Neural Network | |        <!-- + Factor analysis-->
