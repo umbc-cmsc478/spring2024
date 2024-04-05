@@ -112,10 +112,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Mar 28 | **Midterm Exam** | | 
 | **Week 10** | | | 
 | Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf), [Q-learning example](assets/rl_examples.pdf) | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
-| Thu <br> Apr 04 |  RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf), [Q-learning example](assets/rl_examples.pdf) ||
+| Thu <br> Apr 04 |  RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf), [Q-learning example](assets/rl_examples.pdf) |**HW5 is released in BB**|
 | **Week 11** |  | | 
 | Tue <br> Apr 09 | [Support Vector Machine](assets/478-12-SVM.pdf), [Kernel SVM](assets/478-13.pdf), Neural Network | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)        <!-- + Factor analysis-->
-| Thu <br> Apr 11 | Neural Network: Backpropagation | | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+| Thu <br> Apr 11 | Neural Network: Backpropagation | **HW5 is due** | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
 | **Week 12** |  | | 
 | Tue <br> Apr 16 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
 | Thu <br> Apr 18 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
