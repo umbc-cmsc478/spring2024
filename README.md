@@ -114,10 +114,10 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Apr 02 | RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf), [Q-learning example](assets/rl_examples.pdf) | If you are interested to learn more: check these - [chapter 4, 5, 8.11](http://incompleteideas.net/book/bookdraft2018jan1.pdf) |   [SML Chapter 15.1 - 15.4](assets/Lecture-Notes-Stanford-ML.pdf) 
 | Thu <br> Apr 04 |  RL: Value Iteration, Policy Iteration <br> [Slides](assets/478-RL-2.pdf), [Q-learning example](assets/rl_examples.pdf) |**HW5 is released in BB**|
 | **Week 11** |  | | 
-| Tue <br> Apr 09 | [Support Vector Machine](assets/478-12-SVM.pdf), [Kernel SVM](assets/478-13.pdf), Neural Network | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)        <!-- + Factor analysis-->
-| Thu <br> Apr 11 | Neural Network: Backpropagation | **HW5 is due** | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
+| Tue <br> Apr 09 | Support Vector Machine <br> [Slides](assets/478-12-SVM.pdf), Kernel SVM <br> [Slides](assets/478-13-SVM.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)        
+| Thu <br> Apr 11 | Kernel SVM <br> [Slides](assets/478-13-SVM.pdf) | | 
 | **Week 12** |  | | 
-| Tue <br> Apr 16 | [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)|
+| Tue <br> Apr 16 | Neural Network: Backpropagation, [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  | [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)| [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML, SML 7.2
 | Thu <br> Apr 18 | [CNN](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939), K-Means | | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 13** | | | |
 | Tue <br> Apr 23 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41f0c38-9ec5-4ae8-a7b4-b0c20001c42b) | [TM Chapter 3](https://redirect.cs.umbc.edu/courses/undergraduate/478/spring2018/mitchell-DT.pdf), [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
