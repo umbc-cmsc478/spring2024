@@ -96,8 +96,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Feb 20 | Bias - Variance Tradeoff, Regularization. Feature / Model selection. <br>[Class-Notes](assets/bias-variance-notes-02.20.pdf) | **[Homework 2](assets/assignments/Homework%202.ipynb)** <br> Optional: Mathematical derivation of test loss - [Slides](assets/478-bv-01.pdf) | [SML](assets/Lecture-Notes-Stanford-ML.pdf) 8.1, 9.1, 9.3
 | Thu <br> Feb 22 |  [K-Means](assets/478-K_means.pdf) || CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) 
 | **Week 5** | | **Homework 2 is due on Feb 26** | 
-| Tue <br> Feb 27 |  | | 
-|            |  | | 
+| Tue <br> Feb 27 | Class Cancelled | | 
 | Thu <br> Feb 29 | KNN <br>[Slides](assets/KNN-sp2024.pdf) | **[Homework 3](assets/assignments/478_hw3.pdf)** | CIML [Chapter 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) 
 | **Week 6** | | | 
 | Tue <br> Mar 05 |  PCA, ICA <br>[Slides](assets/PCA_ICA.pdf) | [PCA in action](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif) | [Chapter 15 section 2](http://ciml.info/dl/v0_99/ciml-v0_99-ch15.pdf) of CIML for PCA
