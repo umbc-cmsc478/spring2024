@@ -115,7 +115,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | **Week 11** |  | | 
 | Tue <br> Apr 09 | Support Vector Machine <br> [Slides.v3](assets/478-12-SVM.v3.pdf) | | [A guide to SVM](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)        
 | Thu <br> Apr 11 | Kernel SVM <br> [Slides](assets/478-13-SVM.pdf) | | 
-| **Week 12** |  | | 
+| **Week 12** |  | **HW5 is due on Apr 14** | 
 | Tue <br> Apr 16 | Neural Network | [Kernel-Example-Question](assets/Kernel-Example-Question.pdf) |  [SML 7.2]((assets/Lecture-Notes-Stanford-ML.pdf))
 | Thu <br> Apr 18 |Neural Network: Backpropagation, [NN-slide1](assets/NN/14_nn_01.pptx), [NN-slide2](assets/NN/14_nn_02_playground.pptx)  |  [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML,
 | **Week 13** | | | |
