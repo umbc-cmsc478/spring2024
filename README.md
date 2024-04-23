@@ -119,11 +119,11 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Apr 16 | Neural Network <br> [Lecture notes: SML 7.2](assets/Lecture-Notes-Stanford-ML.pdf) | **HW6 is released on Blackboard** <br> [Kernel-Example-Question](assets/Kernel-Example-Question.pdf) |  [SML 7.2](assets/Lecture-Notes-Stanford-ML.pdf)
 | Thu <br> Apr 18 | NN:Backpropagation <br> [Class-notes-2-layer-backprop.v2](/assets/NN-back-propagation.pdf), [Slide.v2](assets/478-NN.pptx) |  [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML
 | **Week 13** | | | |
-| Tue <br> Apr 23 | NN:Backpropagation <br> [Class-notes-multilayer-backprop.v2](/assets/Multilayer-backprop.pdf), [Convolutional Neural Network (CNN)](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) / YOLO/ Multimodal | **HW6 is due**|
-| Thu <br> Apr 25 | Recurrent neural networks ||
+| Tue <br> Apr 23 | NN:Backpropagation <br> [Class-notes-multilayer-backprop.v2](/assets/Multilayer-backprop.pdf), Convolutional Neural Network (CNN) <br> [Slide](assets/478-CNN.pdf) | **HW6 is due**|[CNN-explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Thu <br> Apr 25 | CNN / Recurrent neural networks ||
 | **Week 14** | | | 
-| Tue <br> Apr 30 | Transformers ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
-| Thu <br> May 02 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf) |  |  [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
+| Tue <br> Apr 30 | Transformers/ YOLO/ Multimodal ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
+| Thu <br> May 02 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf), ML tools |  |  [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
 | **Week 15** |  | | 
 | Tue <br> May 07 | Graphical models |  | 
 | Thu <br> May 09 | Expectation maximization |  |
