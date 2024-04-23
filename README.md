@@ -117,9 +117,9 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Apr 11 | Kernel SVM <br> [Slides](assets/478-13-SVM.pdf) |[Kernel-Example-Question](assets/Kernel-Example-Question.pdf) | 
 | **Week 12** |  | **HW5 is due on Apr 14** | 
 | Tue <br> Apr 16 | Neural Network <br> [Lecture notes: SML 7.2](assets/Lecture-Notes-Stanford-ML.pdf) | **HW6 is released on Blackboard** <br> [Kernel-Example-Question](assets/Kernel-Example-Question.pdf) |  [SML 7.2](assets/Lecture-Notes-Stanford-ML.pdf)
-| Thu <br> Apr 18 | Neural Network:Backpropagation <br> [Class-notes-with-algorithm](/assets/NN-back-propagation.pdf) , [Slide2](assets/NN-04.18.pdf) |  [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML
+| Thu <br> Apr 18 | NN:Backpropagation <br> [Class-notes-2-layer-backprop.v2](/assets/NN-back-propagation.pdf), [Slide.v2](assets/478-NN.pptx) |  [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML
 | **Week 13** | | | |
-| Tue <br> Apr 23 | [Convolutional Neural Network (CNN)](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) / YOLO/ Multimodal | **HW6 is due**|
+| Tue <br> Apr 23 | NN:Backpropagation <br> [Class-notes-multilayer-backprop.v2](/assets/Multilayer-backprop.pdf), [Convolutional Neural Network (CNN)](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939) / YOLO/ Multimodal | **HW6 is due**|
 | Thu <br> Apr 25 | Recurrent neural networks ||
 | **Week 14** | | | 
 | Tue <br> Apr 30 | Transformers ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
