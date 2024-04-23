@@ -128,7 +128,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> May 07 | Graphical models |  | 
 | Thu <br> May 09 | Expectation maximization |  |
 | **Week 16** | | | 
-| Tue <br> May 14 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | [Lecture Video](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99aca85f-b6d2-4028-8241-b0d7000252f0)
+| Tue <br> May 14 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | 
 | **Week 17** | | | 
 | Fri <br> May 17 | **Final Exam** | 6-8 pm | **ITE 241** |
 
