@@ -120,14 +120,14 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> Apr 18 | NN:Backpropagation <br> [Class-notes-2-layer-backprop.v2](/assets/NN-back-propagation.pdf), [Slide.v2](assets/478-NN.pptx) |  [Practice Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) | [Chapter 10](http://ciml.info/dl/v0_99/ciml-v0_99-ch10.pdf) of CIML
 | **Week 13** | | | |
 | Tue <br> Apr 23 | NN:Backpropagation <br> [Class-notes-multilayer-backprop.v2](/assets/Multilayer-backprop.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c724f666-87e9-4851-b5a8-b15b016bd4ef)| **HW6 is due** <br> [Demo Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)| 
-| Thu <br> Apr 25 | Convolutional Neural Network (CNN) <br> [Slide](assets/478-CNN.pdf) / Recurrent neural networks ||[CNN-explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+| Thu <br> Apr 25 | Convolutional Neural Network (CNN) [Slide](assets/478-CNN.pdf) |**HW7 is released on Blackboard** <br> [Demo Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |[CNN-explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | **Week 14** | | | 
-| Tue <br> Apr 30 | Transformers/ YOLO/ Multimodal ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
-| Thu <br> May 02 | [Ensemble Learning, Decision Tree](assets/478-Decision-Tree-Ensembling.pdf), ML tools |  |  [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)     <!-- Tom Mitchell Chap 8 -->
+| Tue <br> Apr 30 | [Ensemble Learning](assets/478-Decision-Tree-Ensembling.pdf), [ML tools](assets/478-ML-Tools.pdf) |  |  [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) <!-- Tom Mitchell Chap 8 --> 
+| Thu <br> May 02 | Recurrent neural networks/ Transformers/ YOLO/ Multimodal ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 15** |  | | 
 | Tue <br> May 07 | Graphical models |  | 
 | Thu <br> May 09 | Expectation maximization |  |
-| **Week 16** | | | 
+| **Week 16** | | **HW7 is due on May 10**| 
 | Tue <br> May 14 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | 
 | **Week 17** | | | 
 | Fri <br> May 17 | **Final Exam** | 6-8 pm | **ITE 241** |
