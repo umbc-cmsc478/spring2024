@@ -122,8 +122,8 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Apr 23 | NN:Backpropagation <br> [Class-notes-multilayer-backprop.v2](/assets/Multilayer-backprop.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c724f666-87e9-4851-b5a8-b15b016bd4ef)| **HW6 is due** <br> [Demo Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P)| 
 | Thu <br> Apr 25 | Convolutional Neural Network (CNN) [Slide](assets/478-CNN.pdf) |**HW7 is released on Blackboard** <br> [Demo Colab Notebooks](https://drive.google.com/drive/u/0/folders/1sHYHkNUMj_hM3aylwTbKT2J12S-AG73P) |[CNN-explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 | **Week 14** | | | 
-| Tue <br> Apr 30 | [ML tools](assets/478-ML-Tools.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce97cd20-a188-4f6c-aa02-b16201313d85) |  |  
-| Thu <br> May 02 | [Ensemble Learning](assets/478-Ensembling.pdf)||[CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) <!-- Tom Mitchell Chap 8 --> 
+| Tue <br> Apr 30 | ML tools <br>[Slide](assets/478-ML-Tools.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce97cd20-a188-4f6c-aa02-b16201313d85) |  |  
+| Thu <br> May 02 | Ensemble Learning <br>[Slide](assets/478-Ensembling.pdf)||[CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) <!-- Tom Mitchell Chap 8 --> 
 | **Week 15** |  | | 
 | Tue <br> May 07 | Recurrent neural networks/ Transformers/ YOLO/ Multimodal ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | Thu <br> May 09 | Graphcal Models. Expectation maximization |  |
