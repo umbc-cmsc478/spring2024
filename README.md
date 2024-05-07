@@ -125,7 +125,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> Apr 30 | ML tools <br>[Slides](assets/478-ML-Tools.pdf) // [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce97cd20-a188-4f6c-aa02-b16201313d85) |  |  
 | Thu <br> May 02 | Ensemble Learning <br>[Slides](assets/478-Ensembling.pdf) // [Annotated-slide](assets/Ensembling-annotated.pdf) // [Class-notes](assets/Ensembling-notes.pdf) // [Audio-recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab1537af-0eaf-48d3-8c94-b1640171b6fd) || [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)  <!-- Tom Mitchell Chap 8 --> 
 | **Week 15** |  | | 
-| Tue <br> May 07 | Recurrent neural networks/ Transformers/ YOLO/ Multimodal ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
+| Tue <br> May 07 | Recurrent neural networks <br> [Slides](assets/478-RNN.pdf) / Transformers ||Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | Thu <br> May 09 | Graphcal Models. Expectation maximization |  |
 | **Week 16** | | **HW7 is due on May 10**| 
 | Tue <br> May 14 | **Final Exam Review** | [Review-slides-01](assets/Review/Review-slides-01.pptx), [Review-slides-02](assets/Review/Review-slides-02.pdf) | 
