@@ -126,7 +126,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Thu <br> May 02 | Ensemble Learning <br>[Slides](assets/478-Ensembling.pdf) // [Annotated-slide](assets/Ensembling-annotated.pdf) // [Class-notes](assets/Ensembling-notes.pdf) // [Audio-recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab1537af-0eaf-48d3-8c94-b1640171b6fd) || [CIML Chap 13](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf)  <!-- Tom Mitchell Chap 8 --> 
 | **Week 15** |  | | 
 | Tue <br> May 07 | Recurrent neural networks <br> [Slides](assets/478-RNN.pdf) |[RNN-video](https://www.youtube.com/watch?v=AsNTP8Kwu80) // [LSTM-video](https://www.youtube.com/watch?v=YCzL96nL7j0)|
-| Thu <br> May 09 | Writing Codes for NN, Fine-tuning NN, Word Embedding  |  [Quiz-Link](https://forms.gle/kBUDyo2LBwPgEaoUA) | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
+| Thu <br> May 09 | Writing Codes for NN // [Slides](assets/478-RNN.pdf), Fine-tuning and Transfer Learning //[ Slides](assets/478-NN.pptx), Word Embedding // [Slides](assets/478-word_embed_transformers.pdf) |  [Quiz-Link](https://forms.gle/kBUDyo2LBwPgEaoUA) | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 16** | | **HW7 is due on May 10**| 
 | Tue <br> May 14 | **Final Exam Review** | | 
 | **Week 17** | | | 
