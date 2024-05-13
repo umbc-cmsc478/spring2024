@@ -49,7 +49,7 @@ Listed below are the minimum things you should know. This is not an all-inclusiv
 ### SVM
 - Impact of offset, impact of C and slack variable (slides show examples) -->
 
-### Bias - variance, and Cross-validation
+### Bias - variance, Regularization, and Cross-validation
 - How is model complexity connected to bias, variance, and test error for different ML models?
     - For example, How variance changes with neighbor increase in KNN?
     - For example, How bias and variance changes with sigma in RBF SVM?
