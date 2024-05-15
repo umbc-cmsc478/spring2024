@@ -7,6 +7,72 @@ nav_exclude: false
 
 This page will be updated shortly before the midterm and final exams to reflect what we actually covered this semester.
 
+# Final exam
+
+## <span style="color:blue">Reading Guide: </span>
+Listed below are the minimum things you should know. This is not an all-inclusive list, but you should at least be prepared to do these things:
+
+### Reinforcement Learning
+- Calculating Q-function and finding optimal policy
+- MDP, use of discounted reward
+- Sample: HW5
+
+### SVM, Multiclass classfication, and Kernel SVM
+- Sample: HW6
+- Focus on What kinds of functions K(·, ·) can correspond to some feature map φ?
+- How to calculate φ(x) from x?
+- How to calculate the weight-parameters (w/theta) given the decision function? You will find examples in the sample exams
+- Impact of offset, impact of C and slack variable  
+- One vs all multiclass classification, loss for multiclass classification
+
+
+### Neural Networks
+- MLP -- use, how number of layers affect func. approximation, hyperparameters
+- activation functions
+- CNN -- use, what is convolution, what is filter and how are filters different and similar from MLP
+- RNN -- use, problem of RNN, how are weights different and similar from MLP
+- Backpropagation for 2-layer MLP, and how is multi-layer MLP backprop. different from that
+
+<!-- ### Generative vs discriminative
+- how many parameters needed for generative classifiers, 
+- how does NB assumption improves it,
+- how do you calculate conditional probabilities from joint probabilities? -->
+
+
+<!-- ### Kernel
+    Stanford lecture notes (SML) 5.1, 5.2, 5.4 (page 53, 54, 55)
+
+- Focus on What kinds of functions K(·, ·) can correspond to some feature map φ?
+- How to calculate φ(x) from x?
+- How to calculate the weight-parameters (w/theta) given the decision function? You will find examples in the sample exams
+
+### SVM
+- Impact of offset, impact of C and slack variable (slides show examples) -->
+
+### Bias - variance, Regularization, and Cross-validation
+- How is model complexity connected to bias, variance, and test error for different ML models?
+    - For example, How variance changes with neighbor increase in KNN?
+    - For example, How bias and variance changes with sigma in RBF SVM?
+    - For example, How bias and variance changes with decision tree depth?
+- How does cross-validation help us to better generalize?
+
+### Ensembling
+- How does ensembling help in learning task to better generalize?
+- Effect of Bagging/ Random forest on bias-variance
+- Effect of Boosting on bias-variance
+- Sequential vs parallel training in bagging and boosting
+- adaboost algorithm steps
+- random forest algorithm steps
+- how does adaboost update weights and choose training examples for sequential training
+
+### PCA
+- Relationship between Principal componenets and explained variance
+- How much data is captured with each principal component?
+
+
+There will be no sample questions posted. Focus on homeworks for format of descriptive questions. Check the midterm sample for questions with given scenario, for example, on bias, variance, etc.
+
+
 # Midterm exam
 
 ## <span style="color:blue">Reading Guide: </span>
