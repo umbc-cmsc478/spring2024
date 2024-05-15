@@ -128,7 +128,7 @@ This is an upper-level undergraduate level Computer Science course and we will a
 | Tue <br> May 07 | Recurrent neural networks <br> [Slides](assets/478-RNN.pdf) |[RNN-video](https://www.youtube.com/watch?v=AsNTP8Kwu80) // [LSTM-video](https://www.youtube.com/watch?v=YCzL96nL7j0)|
 | Thu <br> May 09 | Writing Codes for NN - [Slides](assets/478-RNN.pdf) // Fine-tuning and Transfer Learning - [ Slides](assets/478-NN.pptx) // Word Embedding - [Slides](assets/478-word_embed_transformers.pdf) |  [Quiz-Link](https://forms.gle/kBUDyo2LBwPgEaoUA) | Optional: [Transformers in Detail](https://jalammar.github.io/illustrated-transformer/)
 | **Week 16** | | **HW7 is due on May 10**| 
-| Tue <br> May 14 | **Final Exam Review** | | 
+| Tue <br> May 14 | **Final Exam Review** <br> [Recording](https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcd9d771-754a-40c7-8020-b1700162a1ef&start=0) |  | 
 | **Week 17** | | | 
 | Fri <br> May 17 | **Final Exam** | 6-8 pm | **ITE 241** |
 
